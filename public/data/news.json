@@ -1,0 +1,2145 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-22T08:47:31.172Z",
+  "expiresAt": "2026-08-22T14:47:31.172Z",
+  "provider": "OneBench 公共资讯快照",
+  "sources": [
+    {
+      "id": "chinanews-scroll",
+      "ok": true,
+      "itemCount": 30
+    },
+    {
+      "id": "sspai",
+      "ok": true,
+      "itemCount": 10
+    },
+    {
+      "id": "un-news-zh",
+      "ok": true,
+      "itemCount": 30
+    },
+    {
+      "id": "who-zh",
+      "ok": true,
+      "itemCount": 25
+    },
+    {
+      "id": "bbc-zh",
+      "ok": true,
+      "itemCount": 30
+    }
+  ],
+  "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dxw/2026/08-22/10682329.shtml",
+      "title": "东西问丨章念驰：九十年后，我们为何要重读章太炎？",
+      "category": "综合",
+      "summary": "中新社杭州8月22日电 题：九十年后，我们为何要重读章太炎？",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dxw/2026/08-22/10682329.shtml",
+      "publishedAt": "2026-08-22T08:39:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682327.shtml",
+      "title": "中国驻越南使馆提醒在越中国公民注意防范台风“紫檀”",
+      "category": "综合",
+      "summary": "中新网8月22日电 据中国驻越南大使馆微信公众号消息，据中国和越南气象部门预报，8月22日上午，台风“紫檀”位于越南广宁省及海防市附近海域，持续向西南方向移动，中心最大风力为8级，阵风可达10级。受台风影响，22日至24日夜间，越东北部及富寿、清化等省将有大范围降雨，降雨量为100—200毫米，局部地区超400毫米；广宁省、海防市降雨量为250—350毫米，",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682327.shtml",
+      "publishedAt": "2026-08-22T08:35:19.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682332.shtml",
+      "title": "台风“紫檀”影响华南南部和南海海域 多部门会商部署防汛防台风工作",
+      "category": "综合",
+      "summary": "8月22日，国家防办、应急管理部组织中国气象局、水利部、自然资源部、工业和信息化部、住房城乡建设部、交通运输部等部门以及海南、广西、广东、黑龙江、江苏、福建等重点省份联合会商，研判第18号台风“沙德尔”、19号台风“紫檀”及强降雨发展态势和黑龙江干流、太湖流域防洪形势，部署防汛防台风工作。国家防总、应急管理部维持针对海南、广西、广东的防汛防台风四级响应，以及",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682332.shtml",
+      "publishedAt": "2026-08-22T08:33:07.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682324.shtml",
+      "title": "深圳机场二跑道8月25日起关闭两个月",
+      "category": "综合",
+      "summary": "中新网深圳8月22日电 (记者 索有为)深圳机场22日发布消息称，深圳机场计划于8月25日至10月24日临时关闭二跑道。此举是为开展16L/34R跑道(下称“二跑道”)与16R/34L跑道(下称“三跑道”)之间的联络道施工作业，并对二跑道安全运行保障品质进行升级，以完善机场跑道运行体系，提升整体运行效率与安全保障能力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682324.shtml",
+      "publishedAt": "2026-08-22T08:28:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-22/10682326.shtml",
+      "title": "原创舞蹈诗《共同家园》海口开演",
+      "category": "综合",
+      "summary": "图为舞蹈诗《共同家园》剧照。中新社记者 骆云飞 摄 图为舞蹈诗《共同家园》剧照。中新社记者 骆云飞 摄 图为演出结束后，演员谢幕向观众致意。中新社记者 骆云飞 摄 图为舞蹈诗《共同家园》剧照。中新社记者 骆云飞 摄 图为舞蹈诗《共同家园》剧照。中新社记者 骆云飞 摄 图为舞蹈诗《共同家园》剧照。中新社记者 骆云飞 摄 图为舞蹈诗《共同家园》剧照。中新社记者 ",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-22/10682326.shtml",
+      "publishedAt": "2026-08-22T08:28:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682319.shtml",
+      "title": "广西蒙山发现汉代古墓 抢救性发掘出土各类文物19件",
+      "category": "综合",
+      "summary": "中新网梧州8月22日电(黄宁 韦娜 白珍珠)近日，广西梧州市蒙山县蒙山镇回龙村村民在种山作业时挖出3件文物，并发现古墓葬。接报后，蒙山县文化广电体育和旅游局立即派员赶赴现场，叫停周边作业，在文物出土核心区域设置警戒区，联合公安部门加强巡逻值守、加装监控设施，同时向梧州市主管部门报备。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682319.shtml",
+      "publishedAt": "2026-08-22T08:28:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-22/10682322.shtml",
+      "title": "雄安新区举办2026年服务疏解专场招聘会",
+      "category": "综合",
+      "summary": "图为招聘会企业销售区现场。中新社记者 韩冰 摄 图为招聘会现场。中新社记者 韩冰 摄 图为招聘会现场求职者填写信息。中新社记者 韩冰 摄 图为招聘会现场。中新社记者 韩冰 摄 图为招聘会现场。中新社记者 韩冰 摄 图为招聘会现场。中新社记者 韩冰 摄 图为招聘会现场。中新社记者 韩冰 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-22/10682322.shtml",
+      "publishedAt": "2026-08-22T08:25:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/08-22/10682325.shtml",
+      "title": "“草木生香——杨福胤花鸟画作品展”在京举办",
+      "category": "综合",
+      "summary": "中新网北京8月22日电 (记者 高凯)“草木生香——杨福胤花鸟画作品展”22日在北京金石博物馆正式启幕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682325.shtml",
+      "publishedAt": "2026-08-22T08:23:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/08-22/10682320.shtml",
+      "title": "海口第二批岛内居民日用消费品免税店开业迎客",
+      "category": "综合",
+      "summary": "8月22日，顾客在海口市中免日月日用消费品免税店选购进口榴莲。中新社记者 骆云飞 摄 8月22日，顾客在海口市中免日月日用消费品免税店选购商品。中新社记者 骆云飞 摄 8月22日，顾客在海口市中免日月日用消费品免税店选购商品。中新社记者 骆云飞 摄 8月22日，顾客在海口市中免日月日用消费品免税店选购商品。中新社记者 骆云飞 摄 8月22日，顾客在海口市中免",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-22/10682320.shtml",
+      "publishedAt": "2026-08-22T08:23:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682323.shtml",
+      "title": "以赛促教 2026年中小学人工智能教育教学成果大赛全国总决赛举办",
+      "category": "综合",
+      "summary": "中新网北京8月22日电 (记者 孙自法)由中国电子学会、北京师范大学联合主办的2026年中小学人工智能教育教学成果大赛全国总决赛，近日在浙江桐乡顺利举办，150余位脱颖而出的总决赛选手同场竞技，充分展示出中小学人工智能(AI)教育领域的教学创新实践与丰硕成效。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682323.shtml",
+      "publishedAt": "2026-08-22T08:22:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682321.shtml",
+      "title": "治理过敏原，不能止于监测预报和个人防护",
+      "category": "综合",
+      "summary": "中新网呼和浩特8月22日电 (记者 刘文华)每年进入秋季，北方不少城市都会迎来花粉过敏高发期。喷嚏、流涕、鼻痒、眼睛不适等症状，影响着不少人的日常生活。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682321.shtml",
+      "publishedAt": "2026-08-22T08:22:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682318.shtml",
+      "title": "台风“紫檀”将在北部湾回旋打转 海南岛西半部有较强降水",
+      "category": "综合",
+      "summary": "中新网海口8月22日电 (云蓓 吴春娃)海南省气象台22日预报称，今年第19号台风“紫檀”将在北部湾海面回旋打转，强度缓慢加强；预计23日～24日海南岛西半部地区将有强降雨。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682318.shtml",
+      "publishedAt": "2026-08-22T08:22:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682317.shtml",
+      "title": "上海野生动物园首对“子二代”大熊猫龙凤胎一周岁庆生吸引众多游客",
+      "category": "综合",
+      "summary": "中新网上海8月22日电 (陈静 倪丽)22日，上海野生动物园的首对“子二代”大熊猫龙凤胎“芊然”与“芊逸”迎来一周岁生日。园方当日举办了一场温馨而充满仪式感的生日庆典。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682317.shtml",
+      "publishedAt": "2026-08-22T08:21:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682316.shtml",
+      "title": "广西发布洪水黄色预警 明江宁明县城河段将超警",
+      "category": "综合",
+      "summary": "中新网南宁8月22日电(陈秋霞 周也茹)广西壮族自治区水文中心22日提供的信息显示，8月22日13时，明江及支流派连河、思州河，凭祥河等4条河流5个水文站超警0.31至2.71米，其中派连河宁明县寨安乡河段出现2014年建站以来实测第二大洪水。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682316.shtml",
+      "publishedAt": "2026-08-22T08:21:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682314.shtml",
+      "title": "防御台风“紫檀” 广东发布需重点关注河流名单",
+      "category": "综合",
+      "summary": "中新网广州8月22日电 (王坚 林思源)今年第19号台风“紫檀”对广东造成风雨影响，广东省水文局22日发布需重点关注河流名单。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682314.shtml",
+      "publishedAt": "2026-08-22T08:18:00.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682310.shtml",
+      "title": "柬埔寨第四座“澜湄书屋”正式揭牌启用",
+      "category": "综合",
+      "summary": "【东盟专线】柬埔寨第四座“澜湄书屋”正式揭牌启用",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-22/10682310.shtml",
+      "publishedAt": "2026-08-22T08:14:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682311.shtml",
+      "title": "钱大妈门店数突破3000家 受到加盟商和消费者认可",
+      "category": "综合",
+      "summary": "8月21日，社区连锁生鲜龙头钱大妈国际控股有限公司(以下简称“钱大妈”)向港交所递交IPO更新申报材料。最新财务数据显示，2026年上半年经调整净利润为1.04亿元，较2025年同期增长3.7%。整体毛利率从2025年上半年的11.2%稳步提升至11.5%，盈利水平稳步提升。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682311.shtml",
+      "publishedAt": "2026-08-22T08:13:54.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-22/10682312.shtml",
+      "title": "陇台携手共链“岐黄”",
+      "category": "综合",
+      "summary": "中新网兰州8月22日电 (刘薛梅)22日，为期一周的“同源岐黄·陇台共链”台湾中医药界人士来甘考察交流活动正在甘肃举行。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-22/10682312.shtml",
+      "publishedAt": "2026-08-22T08:13:18.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682308.shtml",
+      "title": "（走进中国乡村）赣东山村深耕“睡眠”经济引都市客",
+      "category": "综合",
+      "summary": "中新社江西资溪8月22日电 题：赣东山村深耕“睡眠”经济引都市客",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682308.shtml",
+      "publishedAt": "2026-08-22T08:12:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/tp/hd2011/2026/08-22/1201767.shtml",
+      "title": "（长征胜利90周年）甘肃会宁：红堡子村少了“半扇门板”",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "http://www.chinanews.com.cn/tp/hd2011/2026/08-22/1201767.shtml",
+      "publishedAt": "2026-08-22T08:08:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682306.shtml",
+      "title": "官方回应“白菜收购蘸取甲醛溶液问题”：对相关人员车辆采取强制措施",
+      "category": "综合",
+      "summary": "中新网8月22日电 据“康保发布”微信公众号消息，河北张家口市康保县人民政府22日发布情况通报称，针对网上反映的“白菜收购环节蘸取甲醛溶液”相关问题，该县第一时间组织农业农村、市场监管、公安等部门开展实地核查调查。经初步核查，视频反映情况属实，系收购商为蔬菜运输保鲜，在装运过程中的违法行为。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682306.shtml",
+      "publishedAt": "2026-08-22T08:08:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682303.shtml",
+      "title": "广西升级发布洪水黄色预警 部分河段将出现超警洪水",
+      "category": "综合",
+      "summary": "8月22日13时，广西明江及支流派连河、思州河、凭祥河等4条河流5个站超警0.31～2.71米，其中派连河宁明县寨安乡河段出现2014年建站以来实测第二大洪水。广西壮族自治区水文中心于8月22日13时升级发布洪水黄色预警。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682303.shtml",
+      "publishedAt": "2026-08-22T07:58:58.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682301.shtml",
+      "title": "情绪消费催生票房奇观",
+      "category": "综合",
+      "summary": "2026年中国电影市场最让人“看不懂”的一幕，正在上演。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682301.shtml",
+      "publishedAt": "2026-08-22T07:58:06.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682302.shtml",
+      "title": "今年第20号台风“简拉维”已于西北太平洋洋面上生成",
+      "category": "综合",
+      "summary": "中国天气网讯 今年第20号台风“简拉维”(热带风暴级；英文名称：Gaenari)已于今天(8月22日)下午在西北太平洋洋面上生成，14点钟其中心位于距离台湾台北市东偏北方向约320公里的洋面上，就是北纬26.2度、东经124.5度，中心附近最大风力有8级(18米/秒)，中心最低气压为998百帕，七级风圈半径东北方向80公里，东南方向100公里，西南方向50公",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682302.shtml",
+      "publishedAt": "2026-08-22T07:56:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682300.shtml",
+      "title": "“超级买家+超级卖家” 中国与世界双向奔赴",
+      "category": "综合",
+      "summary": "今年我国外贸保持双向平衡",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682300.shtml",
+      "publishedAt": "2026-08-22T07:41:51.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/08-22/1201765.shtml",
+      "title": "北京突降暴雨 民众冒雨出行",
+      "category": "综合",
+      "summary": "",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/08-22/1201765.shtml",
+      "publishedAt": "2026-08-22T07:36:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682298.shtml",
+      "title": "“眼见为实”有回响",
+      "category": "综合",
+      "summary": "如今，在中国各大口岸，每天都能看到这样的景象：各国游客拖着行李箱，举着手机，兴奋地拍下入关后见到的第一块中文路牌。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682298.shtml",
+      "publishedAt": "2026-08-22T07:34:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-22/10682297.shtml",
+      "title": "行进中国丨武陵山深处，小城向海行",
+      "category": "综合",
+      "summary": "人民网记者 刘政宁",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682297.shtml",
+      "publishedAt": "2026-08-22T07:19:28.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/08-22/10682296.shtml",
+      "title": "暑期经济“热”力足 消费释放新动能",
+      "category": "综合",
+      "summary": "新华社北京8月21日电#8195;题：暑期经济“热”力足 消费释放新动能",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682296.shtml",
+      "publishedAt": "2026-08-22T07:16:48.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/08-22/10682295.shtml",
+      "title": "广州强化科技创新和产业创新深度融合",
+      "category": "综合",
+      "summary": "人民日报",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/08-22/10682295.shtml",
+      "publishedAt": "2026-08-22T07:13:34.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113675",
+      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+      "category": "科技",
+      "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113675",
+      "publishedAt": "2026-08-22T03:00:00.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad#0",
+      "title": "台灣「三大公投」：時隔一年再公投，這次投什麼？通過門檻為何？",
+      "category": "国际",
+      "summary": "這是台灣相隔短短一年後再有公投，也是當地近8年來，第4度舉行公投。BBC中文整理了此次三大公投的背景和重點。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T13:47:30.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad#0",
+      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
+      "category": "国际",
+      "summary": "美國和中國再次就巴拿馬運河問題交鋒。這條戰略水道約佔全球海運貿易量5%，而美國近40%的集裝箱運輸都經過這裏。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T13:39:35.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad#0",
+      "title": "香港支聯會「煽動顛覆」案 高等法院裁定有罪",
+      "category": "国际",
+      "summary": "法庭認為，支聯會雖未使用或鼓吹暴力手段，但中國《香港國安法》頒布後，三人仍堅持「結束一黨專政」行動綱領，屬於「顛覆國家政權」罪中的「其他非法手段」。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T13:24:42.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1w1r9d8gn2o/trad#2",
+      "title": "「結束一黨專政」：為何令支聯會煽動顛覆政權罪成？",
+      "category": "国际",
+      "summary": "已解散的香港支聯會及其前正副主席，在8月21日被裁定國安法下的「煽動顛覆國家政權罪」罪名成立。三名前領袖李卓人、鄒幸彤與何俊仁，將面對最高十年監禁。曾經連續30年在香港主辨全球最大的六四燭光晚會，支聯會的「結束一黨專政」綱領成為本案核心及定罪關鍵。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c1w1r9d8gn2o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T12:59:23.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142672",
+      "title": "【世界进行时】2026年8月21日",
+      "category": "国际",
+      "summary": "本期要点：刚果（金）埃博拉疫情呈指数级蔓延；国际刑事法院强烈反对美国新的制裁指令；哥伦比亚地震灾区120万人亟需援助，部分社区仍无法抵达；加沙94%的居民需要住所；几内亚比绍半数疑似猴痘病例为儿童；索马里儿童危机加剧，205家卫生和营养机构关闭；联合国纪念世界人道主义日。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142672",
+      "publishedAt": "2026-08-21T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142670",
+      "title": "世卫组织与北京大学加强合作，共同推进卫生应急准备工作",
+      "category": "国际",
+      "summary": "世界卫生组织与北京大学签署一项为期两年的项目合作协议，旨在通过研究、培训和创新分析方法，加强全球卫生应急准备工作。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142670",
+      "publishedAt": "2026-08-21T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142669",
+      "title": "古特雷斯：纪念恐怖主义受害者必须保护其尊严和权利",
+      "category": "国际",
+      "summary": "8月21日是纪念和悼念恐怖主义受害者国际日。联合国秘书长古特雷斯当天表示，今年的主题“缅怀与治愈”提醒人们，铭记是通向康复与重振之路。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142669",
+      "publishedAt": "2026-08-21T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142668",
+      "title": "索马里儿童危机加剧，205家卫生和营养机构关闭",
+      "category": "国际",
+      "summary": "联合国儿童基金会周五表示，援助削减正导致索马里卫生和营养机构关闭，饮用水、教育和儿童保护服务也受到影响。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142668",
+      "publishedAt": "2026-08-21T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142667",
+      "title": "救援人员警告：刚果（金）埃博拉疫情呈指数级蔓延",
+      "category": "国际",
+      "summary": "随着刚果（金）历史上最致命的埃博拉疫情于周五持续蔓延，联合国救援人员再次发出紧急呼吁，要求国际社会立即提供支持，因为目前用于救生工作的资金已严重短缺。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142667",
+      "publishedAt": "2026-08-21T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142551",
+      "title": "【子午播报】2026年8月21日",
+      "category": "国际",
+      "summary": "纽约时间零点，北京时间12点，欢迎收看《联合国子午播报》。本期节目您将看到，从救灾物资到太阳能光伏板，怎么把货卖到联合国？",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142551",
+      "publishedAt": "2026-08-21T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1l136ry802o/trad#2",
+      "title": "「蟑螂人民黨」的崛起：印度Z世代到底在抗議什麼？",
+      "category": "国际",
+      "summary": "一句侮辱，演變成一場反抗。從網路玩笑到全國抗議，這場由印度Z世代推動的運動，成為納倫德拉·莫迪執政以來最嚴峻的挑戰之一。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c1l136ry802o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T11:05:58.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113693",
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "category": "科技",
+      "summary": "📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡等主演，小罗伯特·唐尼回归 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113693",
+      "publishedAt": "2026-08-21T10:08:59.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad#0",
+      "title": "特朗普想與金正恩做朋友，韓國恐要為此付出代價",
+      "category": "国际",
+      "summary": "美韓聯合軍事演習提前結束，此時北韓正處於實力強勢的位置。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T09:40:09.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr59gmzdj2zo/trad#1",
+      "title": "生於烏克蘭，為何替俄羅斯作戰？被俘士兵向BBC講述背後故事",
+      "category": "国际",
+      "summary": "出生於烏克蘭，卻替俄羅斯作戰的男子會被控叛國罪，但在烏克蘭西部一座戰俘營裏，許多人認為自己是在保衛家園。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cr59gmzdj2zo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T08:21:37.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113586",
+      "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
+      "category": "科技",
+      "summary": "Nothing Ear (3a) 保持了它作为 Nothing 产品的精良做工和标志性的外观设计，在操作等方面也做得不错，单元素质也在水平线之上，降噪等方面也并不差，至少在中价位产品中绝对不能算落后。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113586",
+      "publishedAt": "2026-08-21T03:05:01.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyx0yxjx5zo/trad#1",
+      "title": "她辭掉了8萬英鎊年薪工作去做冰淇淋，然後造出了爆款",
+      "category": "国际",
+      "summary": "英國冰淇淋品牌 Little Moons 華裔共同創辦人分享她給任何考慮自行創業人士的建議。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/clyx0yxjx5zo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T00:04:00.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113666",
+      "title": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
+      "category": "科技",
+      "summary": "影石推出竖拍云台相机 Luna Pro，森海塞尔发布 MOMENTUM True Wireless 5 真无线耳机等。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113666",
+      "publishedAt": "2026-08-20T23:00:00.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142666",
+      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达",
+      "category": "国际",
+      "summary": "联合国机构周四表示，在哥伦比亚西部发生强震十天后，估计有120万人需要人道主义援助，而部分社区仍仅获得少量或根本未获得援助。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142666",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142665",
+      "title": "中东：加沙94%居民需要住所，以色列在黎巴嫩加大破坏力度",
+      "category": "国际",
+      "summary": "联合国机构和维和人员周四警告称，随着以色列在加沙地带持续开火和发动空袭，该地区210万居民中有94%需要住所。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142665",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142664",
+      "title": "俄罗斯导弹袭击再次导致乌克兰17人死亡，古特雷斯呼吁停火",
+      "category": "国际",
+      "summary": "据当地当局报告，周四，俄罗斯弹道导弹袭击导致乌克兰首都基辅及周边地区17人死亡，40多人受伤。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142664",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142663",
+      "title": "几内亚比绍半数疑似猴痘病例为儿童",
+      "category": "国际",
+      "summary": "在几内亚比绍报告的46例疑似猴痘病例中，15岁以下儿童占一半。面对该国首次猴痘疫情，联合国儿童基金会正在加强对公共卫生部的支持。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142663",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142662",
+      "title": "刚果（金）获赠7万剂埃博拉疫苗，本迪布焦病毒疫情持续蔓延",
+      "category": "国际",
+      "summary": "刚果民主共和国（刚果（金））将从联合国国际疫苗协调小组获得7万剂针对扎伊尔型病毒的埃尔维博疫苗，用于保护一线社区免受埃博拉病毒病的侵害。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142662",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142661",
+      "title": "南苏丹：联合国委员会警告选举保障措施缺失或助长冲突重燃",
+      "category": "国际",
+      "summary": "联合国南苏丹人权委员会周四在最新咨询意见中警告称，南苏丹正迈向独立以来首次全国大选，但实现和平、可信并推动民主变革所需的政治、安全和人权保障措施基本缺失。如果缺乏巩固民主、防止国家分裂的战略，选举可能助长冲突重燃，并加剧暴行犯罪风险。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142661",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113650",
+      "title": "新玩意 249｜少数派的编辑们最近买了啥？",
+      "category": "科技",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113650",
+      "publishedAt": "2026-08-20T09:30:00.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad#1",
+      "title": "台灣為何此刻提出「鞭刑入法」公投？",
+      "category": "国际",
+      "summary": "關於鞭刑的討論已在台灣醞釀了近十年，尤其在重大刑案發生後，民眾不滿刑罰不足，主張仿效新加坡制度。最新民調顯示約八成台灣人贊同政府評估鞭刑，人權團體與法律界則批評此舉違反國際人權標準。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T08:57:23.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvg96l8e5q9o/trad#1",
+      "title": "台灣再提「普發一萬」：背後的K型經濟與政治算盤",
+      "category": "国际",
+      "summary": "台灣總統賴清德宣布明年普發每人1萬元現金，理由是經濟成長創39年新高。但K型經濟下的分配焦慮與年底選舉，成為此政策的激辯核心。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cvg96l8e5q9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T08:36:06.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113567",
+      "title": "十年阅读历程，这是我的阅读工具推荐",
+      "category": "科技",
+      "summary": "从2017年开始，我养成了读书的习惯，到今年年底刚好完成十年的阅读之旅。在这十年里，我累计阅读的书籍有六百余本。在阅读的过程中，我使用了/曾经使用非常多的应用和服务，来辅助阅读、记录书单、整理笔记等。 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113567",
+      "publishedAt": "2026-08-20T07:25:47.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad#1",
+      "title": "恆大許家印被判處無期徒刑 集團罰款近160億元人民幣",
+      "category": "国际",
+      "summary": "深圳法院裁定沒收許家印個人全部財產；已被頒令清盤的恆大集團與恆大地產合共被罰款158.2億元人民幣（23.52億美元；749.45億元新台幣）。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T06:43:47.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad#1",
+      "title": "哈里王子和梅根打算遷回英國，但這會長久嗎？",
+      "category": "国际",
+      "summary": "遷居返回英國的這項突然決定，為薩塞克斯公爵伉儷以及英國王室留下許多疑問。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T03:13:46.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113497",
+      "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
+      "category": "科技",
+      "summary": "在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113497",
+      "publishedAt": "2026-08-20T02:41:31.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113638",
+      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+      "category": "科技",
+      "summary": "哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113638",
+      "publishedAt": "2026-08-20T00:46:04.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad#0",
+      "title": "「我就是個普通人」：中國出入境新規上路前，那些早已受困的民眾",
+      "category": "国际",
+      "summary": "從9月15日開始，中國出入境新規將開始實施，不少民眾擔心出境自由受限。但早在新規出台前，從公務員、國企人員到普通民眾，已經有不少人因為各種原因被限制出境。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T00:07:18.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad#4",
+      "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
+      "category": "国际",
+      "summary": "全球最大人形機械人製造商的股票於上海科創板開始交易，首天股價漲幅數以倍計。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T12:47:27.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142660",
+      "title": "赞比亚：大选后政治对手遭逮捕和拘留引发担忧",
+      "category": "国际",
+      "summary": "在赞比亚总统希奇莱马成功连任第二个五年任期后，联合国人权事务高级专员对该国据报发生的政治对手遭逮捕和拘留事件表示关切。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142660",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142659",
+      "title": "苏丹：战事和洪灾加剧，20万人新近流离失所",
+      "category": "国际",
+      "summary": "国际移民组织周三表示，尽管有大量民众返回喀土穆，但随着冲突升级和破坏性季节性洪灾加剧，苏丹正面临日益加剧的流离失所和人道主义压力。全球供应链延误，尤其是经由红海和霍尔木兹海峡的运输延误，进一步阻碍了人道主义援助的通行。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142659",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142658",
+      "title": "人权高专办：以色列政府部长最新言论已逾越人性底线",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员办事处周三表示，以色列国家安全部长本-格维尔最近发表的言论，鼓吹并煽动暴力，其性质已构成暴行罪，再次表明以色列政府高级官员对国际人道法、国际人权法以及基本人道准则的极度蔑视。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142658",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142657",
+      "title": "古特雷斯：确保世界各地人道主义工作者得到保护、支持并永远被铭记",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯周三在联合国巴格达总部遭炸弹袭击23周年纪念仪式上发表讲话，缅怀在2003年巴格达联合国总部爆炸事件中遇难的22名联合国工作人员，以及众多伤者、遇难者家属和亲人，并向所有在那一天生活从此改变的人们表达缅怀。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142657",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142656",
+      "title": "国际刑事法院强烈反对美国新的制裁指令",
+      "category": "国际",
+      "summary": "国际刑事法院周三发表声明，对美国政府宣布对该院院长赤根智子法官（日本）以及检察官办公室高级审判律师塞耶（塞内加尔）实施新的制裁指定表示强烈谴责。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142656",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142655",
+      "title": "世界人道主义日 | 【特写】伊线：她在埃博拉疫情风暴中心 帮助流离失所者重建生活",
+      "category": "国际",
+      "summary": "8月19日世界人道主义日，《联合国新闻》推出人物纪录片系列《伊线》，记录扎根深野一线的女性联合国职员。第一期走近联合国难民署刚果（金）布尼亚驻地办公室助理外勤官袁希程。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142655",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142646",
+      "title": "【专题报道】300公斤牛仔布的第二次生命——重新思考零废物",
+      "category": "国际",
+      "summary": "300公斤废弃牛仔布，能变成什么？在肯尼亚马赛马拉，达玛丽丝·露西亚正和当地年轻人及工匠一起，尝试寻找答案。这批从内罗毕运来的废弃牛仔布，将经过清洗、消毒和重新设计，最终成为新的产品。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142646",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad#1",
+      "title": "《牛來》爆紅：觀眾、導演與電影業者解讀「粗糙」動畫的意外狂歡",
+      "category": "国际",
+      "summary": "一部因製作粗糙而被網友嘲笑的中國動畫《牛來》，意外在社交網絡走紅並掀起觀影熱潮，觀眾為何從「玩梗」轉而買票支持？",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T10:33:54.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113618",
+      "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
+      "category": "科技",
+      "summary": "7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113618",
+      "publishedAt": "2026-08-19T09:39:05.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/113588",
+      "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了",
+      "category": "科技",
+      "summary": "本文首发于「游研社」，作者@亚锌，少数派经授权转载，仅对排版略作调整。阅读原文在ChinaJoy期间，我参与了Remedy举办的《控制：共振》闭门试玩会。其实在开始前，我除了战斗部分之外，还非常期待本 ... 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/113588",
+      "publishedAt": "2026-08-19T07:20:08.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad#1",
+      "title": "經濟放緩、「掃黑除惡」下中國民商事律師重新評估風險",
+      "category": "国际",
+      "summary": "從「掃黑除惡」到經濟糾紛，為何越來越多中國民商事律師開始擔心：今天的正常代理，會不會在幾年後被重新定性為犯罪？",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T23:53:38.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad#4",
+      "title": "朱鎔基火化：從民間到八寶山，中國領導人身後事的政治邏輯",
+      "category": "国际",
+      "summary": "儘管中國官方將這位已故總理譽為「忠誠」的黨員，但當局同樣提防公眾對他所代表的改革年代的悼念，容易演變為對當下領導層的隱晦批評。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T18:00:44.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142652",
+      "title": "黎巴嫩：86万流离失所者已返回家园，但人道主义危机依然严峻",
+      "category": "国际",
+      "summary": "联合国周二警告称，约86万因黎巴嫩南部冲突而流离失所的人已返回家园，但流离失所和人道主义危机远未结束。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142652",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142653",
+      "title": "世卫组织和儿基会：医疗机构卫生设施仍存在显著缺口",
+      "category": "国际",
+      "summary": "世界卫生组织和联合国儿童基金会周二发布报告显示，全球医疗机构在供水、卫生设施、个人卫生、环境清洁和医疗废物管理方面仍存在明显缺口。到2025年，85%的医疗机构拥有基本供水服务，72%拥有基本卫生服务，71%拥有基本医疗废物管理服务，但仅59%达到基本环境清洁标准，40%符合基本卫生设施服务要求。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142653",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142651",
+      "title": "加沙地带：仅3%的耕地既可进入又未受损",
+      "category": "国际",
+      "summary": "联合国粮食及农业组织和联合国卫星中心周二发布最新地理空间评估报告显示，截至2026年6月24日，加沙地带仅有3%的耕地既可进入又未受损。自2025年10月以来，这类耕地面积减少25.5%。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142651",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142650",
+      "title": "哥伦比亚地震：联合国加大对10万人的援助力度",
+      "category": "国际",
+      "summary": "根据周二发布的最新情况通报，随着上周发生7.4级毁灭性地震后需求持续增加，联合国正在哥伦比亚西部加大人道主义援助力度。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142650",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142649",
+      "title": "埃博拉：运送病人的摩托车骑手或成加强应对的关键",
+      "category": "国际",
+      "summary": "在刚果民主共和国（刚果（金））有史以来最致命的埃博拉疫情前线，世界卫生组织于周二公布了大规模推动社区参与的详细计划，此前一天，又发生了一起针对救护车的袭击事件。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142649",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142648",
+      "title": "联合国：利比亚政治进程取得进展，但仍面临治理、安全和经济挑战",
+      "category": "国际",
+      "summary": "联合国秘书长利比亚问题特别代表汉娜·塔特周二在安理会表示，推动利比亚政治进程向前发展依然至关重要。近期大范围停电、公众不满情绪以及持续热浪，暴露出制度分裂、公共资源大规模挪用、投资不足和决策缺乏协调等治理问题。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142648",
+      "publishedAt": "2026-08-18T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx7vr7qjwjo/trad#4",
+      "title": "「我在遊戲中當了兩年英國首相，然後閣員們都離我而去」",
+      "category": "国际",
+      "summary": "手機遊戲《唐寧街10號：充分信任》最近在英國App Store付費遊戲排行榜上超越了《我的世界》（Minecraft）。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cqx7vr7qjwjo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T00:15:00.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad#5",
+      "title": "中美「AI 軍備競賽」究竟在比什麼？專家預測三種結局",
+      "category": "国际",
+      "summary": "兩國都在加碼人工智能，但美國追求下一個技術突破，中國更重視低成本普及。兩條不同路線，誰更可能建立長期優勢？",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T00:01:37.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad#5",
+      "title": "江澤民紀念規格比肩「開國元老」：中共如何紀念已故領導人？",
+      "category": "国际",
+      "summary": "這意味著，此次由中共中央舉辦江澤民誕辰百年紀念大會，按照中共既有的紀念規格，江澤民在官方已故領導人的紀念序列中，待遇與周恩來、劉少奇、朱德、鄧小平、陳雲等同屬一個級別，僅次於毛澤東。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T14:43:54.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad#4",
+      "title": "Meta 若輸掉這訴訟，Instagram 和 Facebook 或會永遠改變",
+      "category": "国际",
+      "summary": "美國30個州已對Meta提起訴訟，要求徹底改革年輕用戶的社交平台。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c4g33g9red9o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T12:16:16.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142645",
+      "title": "西岸库斯拉村围困局势有所缓解，但加沙危机加剧",
+      "category": "国际",
+      "summary": "联合国周一表示，人道主义工作者已接触到在约旦河西岸北部库斯拉村被以色列定居者围困数日的巴勒斯坦家庭；与此同时，官员们警告称，这种对峙局面绝不能成为“新常态”。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142645",
+      "publishedAt": "2026-08-17T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142644",
+      "title": "遏制荒漠化 保护我们“最关键的基础设施”",
+      "category": "国际",
+      "summary": "随着热浪日益致命，火灾和灾害肆虐城市，海平面上升正吞噬着陆地。然而，土地退化这一环境危机仍被危险地忽视。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142644",
+      "publishedAt": "2026-08-17T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142643",
+      "title": "刚果（金）当前埃博拉疫情成为该国史上最致命的一次",
+      "category": "国际",
+      "summary": "世界卫生组织周一表示，刚果民主共和国（刚果（金））本迪布焦型病毒埃博拉疫情现已成为该国历史上致死人数最多的一次。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142643",
+      "publishedAt": "2026-08-17T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142642",
+      "title": "泛美卫生组织发布工具包，预防儿童和青少年遭受欺凌及网络欺凌",
+      "category": "国际",
+      "summary": "泛美卫生组织周一发布《美洲地区儿童和青少年反欺凌及网络欺凌有效干预措施工具包》，汇集相关证据、建议和实用工具，预防和应对影响本地区数百万儿童和青少年的欺凌，包括网络欺凌。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142642",
+      "publishedAt": "2026-08-17T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142641",
+      "title": "也门敌对行动升级，人权高专对平民伤亡表示震惊",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员蒂尔克周一对也门日益升级的敌对行动导致平民伤亡人数不断增加表示震惊，呼吁各方保持克制并立即缓和紧张局势。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142641",
+      "publishedAt": "2026-08-17T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad#4",
+      "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
+      "category": "国际",
+      "summary": "高市早苗今年選擇不親自參拜靖國，卻以奉納玉串料及「遙拜」表達敬意，而靖國所供奉的甲級戰犯、戰爭記憶與日本日益強化的安全政策，仍讓這座神社成為中日韓外交爭議的焦點。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T10:44:03.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c1w1ypqx1qxo/trad#2",
+      "title": "中國國產C919首飛國際航線 挑戰波音、空中巴士再進一步？",
+      "category": "国际",
+      "summary": "C919完成首次國際商業航班飛行，由北京飛往蒙古烏蘭巴托，象徵中國國產客機邁向海外市場的里程碑。北京希望藉此挑戰波音及空中巴士的市場主導地位，但此款飛機仍面臨國際認證及供應鏈緊張等挑戰。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c1w1ypqx1qxo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T09:36:38.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad#3",
+      "title": "美國稱數十國助中國避特朗普關稅",
+      "category": "国际",
+      "summary": "美國一份新報告稱，中國透過關稅較低的國家轉運貨物，以規避較高關稅。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T05:11:59.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwye07v501ro/trad#2",
+      "title": "AI浪潮衝擊青年就業 畢業生如何應對？",
+      "category": "国际",
+      "summary": "2026年度中國高校畢業生達1,270萬人，創歷史新高，加上往屆未就業與回流的海外留學生，求職人數突破1,500萬人。面對「降本增效」的職場新常態，年輕一代應如何調整定位？",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cwye07v501ro/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T03:41:21.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad#2",
+      "title": "朱鎔基逝世：推動中國經濟改革的「鐵腕總理」是誰？",
+      "category": "国际",
+      "summary": "中國前總理朱鎔基週三在北京逝世。在1990至2000年代擔任副總理和總理期間，他主導中國經濟改革逾十年，被外界稱為中國「經濟沙皇」。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cdrvp51pm44o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T15:24:03.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:4ace2946-296b-4966-8907-187e3d996c9c",
+      "title": "非洲疾控中心和世卫组织呼吁采取社区主导的紧急行动，遏制刚果民主共和国的埃博拉疫情",
+      "category": "健康",
+      "summary": "非洲疾病预防控制中心（非洲疾控中心）和世界卫生组织（世卫组织）呼吁在刚果民主共和国紧急扩大社区主导的埃博拉应对行动，加强早期发现、接触者随访及护理可及性，支持一线卫生工作者并加快向受影响社区输送资源。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/06-08-2026-africa-cdc-and-who-call-for-urgent--community-led-action-to-contain-ebola-in-the-drc",
+      "publishedAt": "2026-08-06T16:50:24.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad#3",
+      "title": "特習會後美中再現摩擦 「建設性穩定」能否撐到九月？",
+      "category": "国际",
+      "summary": "關稅、台灣、安全議題再起摩擦，特習會後的美中「建設性穩定」還能持續多久？",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T00:01:45.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad#3",
+      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
+      "category": "国际",
+      "summary": "在現代戰爭中，環繞地球運行的人造衛星幾乎未曾受到波及；但到了21世紀，太空或許已不再是安全的避風港。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T09:56:01.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:423f5646-df5f-462f-a6ec-b9a9aec18160",
+      "title": "敦促各国加强母乳喂养支持和卫生系统建设，为每个孩子提供健康生命开端",
+      "category": "健康",
+      "summary": "世界各地仍有太多母亲和家庭无法获得能够促进和支持母乳喂养的服务和干预措施。然而，母乳喂养是保护儿童健康最简单、最有效的方法之一。母乳喂养能够为婴幼儿提供必需的营养，增强免疫力，帮助预防严重疾病，并促进认知发育。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/31-07-2026-countries-urged-to-strengthen-breastfeeding-support-and-health-systems-to-give-every-child-a-healthy-start-in-life",
+      "publishedAt": "2026-07-31T09:11:46.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad#3",
+      "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
+      "category": "国际",
+      "summary": "美國和中國正陷入一場爭奪全球機械人與人工智能領導地位的競賽。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T11:14:21.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad#3",
+      "title": "特朗普暫停伊朗戰事，美國真面臨武器短缺？台海安全堪憂？",
+      "category": "国际",
+      "summary": "美國與伊朗的戰爭正好發生在常被稱為「戴維森窗口」的時間點之前。在部分美軍事規劃者眼中，中國在此期間對台灣發動入侵的可能性會升高。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c05q7n6jn2lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T08:43:16.000Z",
+      "tags": [
+        "国际",
+        "商业",
+        "科技",
+        "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:3a2fbd46-aab7-4f65-a970-2bd25cf68c83",
+      "title": "世卫组织报告指出：整合、创新和社区领导力是终结艾滋病毒、病毒性肝炎和性传播感染的关键",
+      "category": "健康",
+      "summary": "世界卫生组织（世卫组织）今日发布一份新报告，评估《艾滋病毒、病毒性肝炎和性传播感染2022-2030年全球卫生部门战略》的实施进展情况。该报告在第26届国际艾滋病大会期间发布，并恰逢2026年7月28日世界肝炎日到来前夕。报告重点介绍了全球应对这些流行病所取得的重要成就和持续存在的挑战。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/27-07-2026-who--integration--innovation-and-community-leadership-key-to-ending-hiv--hepatitis-and-stis",
+      "publishedAt": "2026-07-27T15:45:12.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:7d2ad12b-a64a-4911-b6f0-5d73c2c4398f",
+      "title": "世卫组织推出七项预防溺水策略",
+      "category": "健康",
+      "summary": "在7月25日世界预防溺水日到来之际，世界卫生组织（世卫组织）发布了一套新的技术方案，帮助各国政府和社区实施七项行之有效的措施来减少溺亡。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/23-07-2026-who-launches-seven-strategies-to-prevent-drowning",
+      "publishedAt": "2026-07-23T08:00:24.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:d44ceb09-4de2-48fe-95b8-d763934d5bf3",
+      "title": "联合国五大机构联合发布《2026年世界粮食安全和营养状况》报告",
+      "category": "健康",
+      "summary": "《报告》指出，2025年全球饥饿人口数量连续第三年下降，表明消除饥饿的目标并非遥不可及。但《报告》同时警示，当前改善势头依然脆弱，各区域进展情况极不均衡，要在2030年如期实现可持续发展目标，依然任重而道远。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/21-07-2026-un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist",
+      "publishedAt": "2026-07-21T08:26:17.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:ae53d486-8411-4081-88ba-a2929146208b",
+      "title": "世卫组织庆祝Research4Life（促进生命科学研究计划）成立25周年，持续推动120多个国家获取科学知识",
+      "category": "健康",
+      "summary": "世界卫生组织（世卫组织）今天庆祝Research4Life（促进生命科学研究计划）成立25周年。Research4Life是一个公私合作伙伴关系，为低收入和中等收入国家的研究人员、教育工作者、卫生专业人员和政策制定者提供负担得起或免费的科学知识获取途径。该伙伴关系已帮助120多个国家的研究人员、教育工作者、卫生专业人员和政策制定者大幅提升了获取科学知识的能力",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/21-07-2026-who-marks-25-years-of-research4life--advancing-access-to-scientific-knowledge-in-more-than-120-countries",
+      "publishedAt": "2026-07-20T15:34:49.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:4dbc5e41-68f5-4763-8f68-eb108686557f",
+      "title": "全球道路交通死亡人数下降21%，但仍需采取更有力行动挽救生命",
+      "category": "健康",
+      "summary": "世界卫生组织（世卫组织）最新数据显示，尽管全球道路上新增超过10亿辆机动车，但2011年至2025年期间，全球道路交通死亡率下降了21%。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives",
+      "publishedAt": "2026-07-20T07:09:01.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:b8777607-14f1-4466-9bac-0c4954871763",
+      "title": "世卫组织会员国继续就病原体获取和惠益分享附件进行谈判",
+      "category": "健康",
+      "summary": "世卫组织会员国在病原体获取和惠益分享（PABS）附件（《世卫组织大流行协定》的核心组成部分）的谈判上取得进展，并认为需要继续开展讨论，以最终确定有助于更快、更有效和更公平应对未来大流行的一个框架。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/20-07-2026-who-member-states-continue-negotiations-on-the-pathogen-access-and-benefit-sharing-annex",
+      "publishedAt": "2026-07-18T07:27:54.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:ba06cf80-253b-4ecf-a5d9-236f77406649",
+      "title": "世卫组织发布新版指南：高达45%的痴呆症风险可预防或延缓",
+      "category": "健康",
+      "summary": "世界卫生组织（世卫组织）今天发布新版《降低认知能力下降和痴呆症风险指南》，为各国提供基于证据的建议，帮助在生命全程预防或延缓痴呆症发生。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed",
+      "publishedAt": "2026-07-15T12:15:58.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:19112ec9-719b-42a9-a43a-ff7390e3ef1e",
+      "title": "联合国儿童基金会和世界卫生组织称全球儿童免疫覆盖率在冲突和犹豫中缓慢回升",
+      "category": "健康",
+      "summary": "根据今天发布的世卫组织-联合国儿童基金会国家免疫覆盖率年度估算数据，2025年全球90%的婴儿（近1.16亿婴儿）至少接种了一剂白喉-破伤风-百日咳疫苗，85%的婴儿（1.1亿婴儿）完成了全程三剂系列接种。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who",
+      "publishedAt": "2026-07-15T00:01:54.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:03e91a6b-722b-4eef-97a8-308ad29ccc26",
+      "title": "世卫组织确认萨尔瓦多已消除沙眼这一公共卫生问题",
+      "category": "健康",
+      "summary": "世界卫生组织（世卫组织）确认萨尔瓦多已经消除了作为公共卫生问题的沙眼。沙眼是全球盲症的主要感染性致病原因。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
+      "publishedAt": "2026-07-13T09:57:57.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:6db765ee-751c-4fc1-b2ee-a860855a716f",
+      "title": "预计到2050年癌症新发病例数将增加近一倍，世卫组织呼吁采取紧急行动",
+      "category": "健康",
+      "summary": "根据世界卫生组织（世卫组织）今天发布的一份报告，癌症目前使数百万人面临身体、情感和经济上的沉重负担，这种疾病每天夺走超过26000人的生命。据估计，每年有2060万例新发癌症病例，近1000万例死亡。癌症仍然是全球第二大死亡原因，仅次于心血管病。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
+      "publishedAt": "2026-07-08T11:51:29.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:34830c3c-06fa-44be-a871-13a6eccba77c",
+      "title": "医疗产品警报2026年第3期",
+      "category": "健康",
+      "summary": "本期世卫组织医疗产品警报涉及两批伪造的兆珂（达雷妥尤单抗）注射液。这些伪造产品在马尔代夫和墨西哥被发现。两国的国家监管机构已于2026年5月和6月向世卫组织报告了相关事件。伪造产品由未经授权的经销商提供，并且至少在一例情况中，医院收到了这些伪造产品。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/03-07-2026-medical-product-alert-n-3-2026--falsified-darzalex-(daratumumab)",
+      "publishedAt": "2026-07-03T09:03:39.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:b9ae0e8a-85e9-4a73-b9e0-d941ba3da049",
+      "title": "世卫组织将首款埃博拉本迪布焦病毒诊断检测产品纳入紧急使用列表",
+      "category": "健康",
+      "summary": "今天，世界卫生组织（世卫组织）将首款针对本迪布焦病毒的分子诊断检测产品纳入了其紧急使用列表。该检测产品通过识别血液样本中的遗传物质来发现病毒，有助于快速准确地确认感染。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
+      "publishedAt": "2026-07-02T16:21:23.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:a2fec9cf-3198-4dc6-8232-32018fb47386",
+      "title": "为确定本迪布焦病毒病有效疗法启动科学试验并开始招募患者",
+      "category": "健康",
+      "summary": "为评估本迪布焦病毒型埃博拉病（下称“本迪布焦病毒病”）潜在治疗方法，发起了一项大型国际行动，推出了名为“PARTNERS”的临床试验。该试验项目今日开始在刚果民主共和国招募患者。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/02-07-2026-patient-enrolment-begins-in-a-scientific-trial-to-identify-the-first-effective-treatments-for-bundibugyo-virus-disease",
+      "publishedAt": "2026-07-02T12:19:20.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:4c0ce00c-7fb4-440b-b0ee-217fab8ffa61",
+      "title": "仍有6.55亿人生活在无电状态，凸显实现全民能源普及目标的紧迫性",
+      "category": "健康",
+      "summary": "在能源安全和可负担性已成为发展议程上首要议题的背景下，全球仍有6.55亿人缺乏电力供应，20亿人仍在使用污染性烹饪燃料和技术，危及其健康与福祉。撒哈拉以南非洲地区面临的缺口尤为严重，该地区有超过5.6亿人生活在无电状态，9.7亿人缺乏清洁烹饪燃料。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target",
+      "publishedAt": "2026-06-24T11:57:55.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:64448f75-f6e8-44d4-b63d-e1fc5ab269fe",
+      "title": "世卫组织敦促扩大新生儿筛查规模，以改善出生缺陷的早期发现和治疗",
+      "category": "健康",
+      "summary": "世界卫生组织（世卫组织）今天呼吁各国扩大新生儿出生缺陷筛查，强调早期发现和治疗可以挽救生命，并降低数百万儿童终身残疾的风险。世卫组织新发布的报告，即《加强新生儿出生缺陷筛查、诊断和管理能力》，将新生儿筛查确认为加快提高儿童生存率的重要契机。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/23-06-2026-who-urges-scale-up-of-newborn-screening-to-improve-early-detection-and-care-of-birth-defects",
+      "publishedAt": "2026-06-23T10:01:11.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:b39f6efd-d15a-455e-b207-6b6d4692ffec",
+      "title": "世卫组织发布关于丝状病毒病（包括埃博拉病和马尔堡病）的综合指南",
+      "category": "健康",
+      "summary": "在刚果民主共和国抗击由本迪布焦病毒引起的埃博拉病疫情之际，世界卫生组织（世卫组织）发布了其首份关于丝状病毒病临床管理的综合指南，范围涵盖所有类型的埃博拉病毒和马尔堡病毒。新指南强调早期支持性护理在提高患者生存率和改善健康结果方面的重要性，并列出16项基于证据的建议。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease",
+      "publishedAt": "2026-06-17T13:30:57.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:690bd8cf-6a5c-454d-8264-3522b5419c43",
+      "title": "医疗产品警报2026年第2期",
+      "category": "健康",
+      "summary": "本期世卫组织医疗产品警报涉及三批伪造的捷恪卫（芦可替尼）。这些伪造产品已在伊朗伊斯兰共和国、俄罗斯联邦和土耳其被发现，并于2026年5月向世卫组织报告。这些伪造产品通过在线平台非法出售给患者，并且至少有一例从药房供应给患者的情况。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/16-06-2026-medical-product-alert-n-2-2026--falsified-jakavi-(ruxolitinib)",
+      "publishedAt": "2026-06-16T08:50:42.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:e473aa4a-97a4-489b-b1d1-c38811549a13",
+      "title": "就最终完成《世卫组织大流行协定》病原体获取和惠益分享附件致七国集团、二十国集团、金砖国家以及世界各国领导人的公开信",
+      "category": "健康",
+      "summary": "巴西联邦共和国总统路易斯·伊纳西奥·卢拉·达席尔瓦与世界卫生组织总干事谭德塞博士联名致信七国集团峰会。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/15-06-2026-open-letter-to-leaders-of-g7-g20-brics-and-all-nations-on-finalizing-the-who-pandemic-agreement-s-pathogen-access-and-benefit-sharing-annex",
+      "publishedAt": "2026-06-15T09:05:36.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    }
+  ]
+}

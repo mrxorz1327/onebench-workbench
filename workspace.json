@@ -1,0 +1,217 @@
+{
+  "version": "1.0.0",
+  "id": "c2ac84ac-b2e0-4543-8e85-0861b7f9c2ef",
+  "name": "人生管理台",
+  "sourcePack": "job-search",
+  "intent": "我正在准备返回职场，微电子与数字芯片物理实现背景、6年经验；日常三块：搭建期权交易系统、学习AI agent、把六年工作笔记数字化成知识库并做脚本自动化。需要统一管理台，并把期权/投资和Agent入口放在首页。",
+  "profile": {
+    "displayName": "朋友",
+    "avatarId": "role"
+  },
+  "createdAt": "2026-08-22T12:05:12.309Z",
+  "updatedAt": "2026-08-22T12:05:12.314Z",
+  "theme": {
+    "id": "career-indigo",
+    "name": "求职靛蓝",
+    "accent": "#5862a3"
+  },
+  "layout": "focus-first",
+  "modules": [
+    {
+      "id": "tasks",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 0
+    },
+    {
+      "id": "schedule",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 1
+    },
+    {
+      "id": "goals",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 2
+    },
+    {
+      "id": "projects",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 3
+    },
+    {
+      "id": "learning",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 4
+    },
+    {
+      "id": "files",
+      "enabled": true,
+      "placement": "home",
+      "size": "wide",
+      "order": 5
+    },
+    {
+      "id": "agent-briefing",
+      "enabled": true,
+      "placement": "home",
+      "size": "wide",
+      "order": 6
+    },
+    {
+      "id": "github-activity",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 7
+    },
+    {
+      "id": "finance",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 8
+    },
+    {
+      "id": "analytics",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 9
+    },
+    {
+      "id": "exchange-rates",
+      "enabled": true,
+      "placement": "home",
+      "size": "small",
+      "order": 10
+    },
+    {
+      "id": "rss",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 11
+    },
+    {
+      "id": "bookmarks",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 12
+    },
+    {
+      "id": "quick-note",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 13
+    },
+    {
+      "id": "review",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 14
+    },
+    {
+      "id": "countdown",
+      "enabled": true,
+      "placement": "home",
+      "size": "medium",
+      "order": 15
+    },
+    {
+      "id": "calendar",
+      "enabled": true,
+      "placement": "home",
+      "size": "small",
+      "order": 16
+    },
+    {
+      "id": "weather",
+      "enabled": true,
+      "placement": "home",
+      "size": "small",
+      "order": 17
+    },
+    {
+      "id": "focus",
+      "enabled": true,
+      "placement": "home",
+      "size": "small",
+      "order": 18
+    },
+    {
+      "id": "inbox",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 19
+    },
+    {
+      "id": "reading",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 20
+    },
+    {
+      "id": "news",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 21
+    },
+    {
+      "id": "diary",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 22
+    },
+    {
+      "id": "appearance",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 23
+    },
+    {
+      "id": "profile",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 24
+    },
+    {
+      "id": "settings",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 25
+    },
+    {
+      "id": "sync",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 26
+    },
+    {
+      "id": "habits",
+      "enabled": true,
+      "placement": "sidebar",
+      "size": "medium",
+      "order": 27
+    }
+  ]
+}
