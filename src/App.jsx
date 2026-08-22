@@ -580,6 +580,10 @@ export function App() {
   }
 
   function editModule(moduleId) {
+    if (moduleId === 'sync') {
+      setPanel('sync')
+      return
+    }
     setPanel(`module:${moduleId}`)
   }
 
