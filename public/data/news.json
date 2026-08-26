@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T15:57:15.367Z",
-  "expiresAt": "2026-08-26T21:57:15.367Z",
+  "generatedAt": "2026-08-26T18:05:56.416Z",
+  "expiresAt": "2026-08-27T00:05:56.416Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-26/10684886.shtml",
-      "title": "上海抢抓AI赋能科技服务业新机遇",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-27/10684889.shtml",
+      "title": "国际人士析多国对华好感度攀升",
       "category": "综合",
-      "summary": "中新社上海8月26日电 (记者 郑莹莹)上海市科学技术委员会等多部门26日对外发布《上海市科技研发与创新服务业高质量发展行动方案》(简称“方案”)。",
+      "summary": "中新社北京8月26日电 (官逸伦 刘纪)由中国人民大学主办的“全球认知之变与中国发展未来国际研讨会”26日在北京举行。多国与会嘉宾表示，中国自身的成功发展与其对和平、合作的追求是世界多国对华好感度提升的原因所在。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684886.shtml",
-      "publishedAt": "2026-08-26T15:48:39.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684889.shtml",
+      "publishedAt": "2026-08-26T16:33:56.000Z",
       "tags": [
         "国内",
         "社会",
@@ -57,12 +57,66 @@
       "source": "BBC 中文",
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T15:41:22.000Z",
+      "publishedAt": "2026-08-26T16:18:33.000Z",
       "tags": [
         "国际",
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-27/10684888.shtml",
+      "title": "HICOOL 2026全球创业者峰会在北京开幕",
+      "category": "综合",
+      "summary": "中新社北京8月26日电 (记者 陈杭)26日晚，为期四天的HICOOL 2026全球创业者峰会在北京开幕。本届峰会年度主题为“从创新源头到产业潮头”，采用“展+会”一体形式，吸引600余家展商在2.3万平方米的展览空间内同台竞技。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-27/10684888.shtml",
+      "publishedAt": "2026-08-26T16:15:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/08-27/10684887.shtml",
+      "title": "特朗普证实中情局局长访俄",
+      "category": "综合",
+      "summary": "美国总统特朗普26日证实美国中央情报局局长拉特克利夫日前访问俄罗斯，并称此访“可能会取得一些成果”，但没有作进一步说明。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-27/10684887.shtml",
+      "publishedAt": "2026-08-26T16:08:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/08-26/10684886.shtml",
+      "title": "上海抢抓AI赋能科技服务业新机遇",
+      "category": "综合",
+      "summary": "中新社上海8月26日电 (记者 郑莹莹)上海市科学技术委员会等多部门26日对外发布《上海市科技研发与创新服务业高质量发展行动方案》(简称“方案”)。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-26/10684886.shtml",
+      "publishedAt": "2026-08-26T15:48:39.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
       ],
       "hot": false
     },
@@ -535,56 +589,38 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/txy/2026/08-26/10684853.shtml",
-      "title": "上海民盟举办“与盟同行·会客厅”科技专场活动",
-      "category": "综合",
-      "summary": "中新网上海8月26日电(范宇斌 陈婕)26日，民盟上海市委会“与盟同行·会客厅”科技专场活动在华东理工大学举行。作为庆祝上海民盟组织建立80周年系列活动之一，本次活动以“民盟的智见：共话‘AI for Science’新范式”为主题，由民盟上海市委会科技委员会、民盟华东理工大学委员会承办，来自高校、国家级技术平台和产业一线的4位盟员代表作科创分享。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/txy/2026/08-26/10684853.shtml",
-      "publishedAt": "2026-08-26T13:28:14.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142691",
+      "title": "粮农组织呼吁利用科学技术弥合数字鸿沟、城乡差距和性别差距",
+      "category": "国际",
+      "summary": "粮农组织总干事屈冬玉周二在第11届亚太经合组织粮食安全部长级会议上表示，亚太地区必须将科学、技术和人工智能置于农业食品系统转型工作的核心位置，同时确保创新有助于弥合而非扩大数字鸿沟、农村鸿沟和性别鸿沟。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142691",
+      "publishedAt": "2026-08-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-26/10684854.shtml",
-      "title": "上海浦东国际机场启用超110平方米婴幼儿友好空间 助力上海儿童友好城市建设",
-      "category": "综合",
-      "summary": "中新网上海8月26日电 (记者 殷立勤)8月26日，上海浦东国际机场T2航站楼国内混流层C77登机口附近，一个总面积超110平方米的婴幼儿友好空间正式启用。该项目集多功能育婴室、婴幼儿休憩区、亲子候机区于一体，提供哺乳、护理、备餐、休憩、娱乐等全链条服务，标志着上海浦东国际机场母婴服务从“有没有”向“好不好用”迈进。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684854.shtml",
-      "publishedAt": "2026-08-26T13:27:42.000Z",
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142690",
+      "title": "联合国：加沙停火依然脆弱，必须推进解除武装、恢复治理和重建",
+      "category": "国际",
+      "summary": "联合国中东和平进程代理特别协调员阿拉克巴罗夫周三向安理会通报中东局势时表示，尽管关于执行安理会第2803号决议和《结束加沙冲突综合计划》的谈判仍在继续，但加沙停火依然脆弱，以色列对加沙的袭击仍在持续，约旦河西岸局势也在迅速恶化。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142690",
+      "publishedAt": "2026-08-26T12:00:00.000Z",
       "tags": [
-        "国内",
-        "社会",
-        "财经",
+        "国际",
+        "公共政策",
         "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/08-26/10684852.shtml",
-      "title": "国务院食安办挂牌督办“消杀公司违规使用敌敌畏为餐饮门店消杀”事件",
-      "category": "综合",
-      "summary": "中新网北京8月26日电 (记者 刘亮)国家市场监管总局26日公布，针对近日舆论关注的福建省厦门市“消杀公司违规使用敌敌畏为餐饮门店消杀”事件，国务院食安办决定实行挂牌督办，并会同国家市场监管总局、国家疾控局成立联合工作组，赴实地督促指导案件查办，依法严惩重处违法违规行为，开展风险排查，切实维护民众饮食安全。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684852.shtml",
-      "publishedAt": "2026-08-26T13:27:32.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1677,42 +1713,6 @@
         "商业",
         "科技",
         "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142660",
-      "title": "赞比亚：大选后政治对手遭逮捕和拘留引发担忧",
-      "category": "国际",
-      "summary": "在赞比亚总统希奇莱马成功连任第二个五年任期后，联合国人权事务高级专员对该国据报发生的政治对手遭逮捕和拘留事件表示关切。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142660",
-      "publishedAt": "2026-08-19T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142659",
-      "title": "苏丹：战事和洪灾加剧，20万人新近流离失所",
-      "category": "国际",
-      "summary": "国际移民组织周三表示，尽管有大量民众返回喀土穆，但随着冲突升级和破坏性季节性洪灾加剧，苏丹正面临日益加剧的流离失所和人道主义压力。全球供应链延误，尤其是经由红海和霍尔木兹海峡的运输延误，进一步阻碍了人道主义援助的通行。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142659",
-      "publishedAt": "2026-08-19T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
