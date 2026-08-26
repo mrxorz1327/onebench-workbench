@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T18:05:56.416Z",
-  "expiresAt": "2026-08-27T00:05:56.416Z",
+  "generatedAt": "2026-08-26T20:09:59.034Z",
+  "expiresAt": "2026-08-27T02:09:59.034Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -585,6 +585,24 @@
         "财经",
         "教育",
         "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142692",
+      "title": "古特雷斯对尼泊尔和中国严重洪灾造成的人员伤亡和破坏深感悲痛",
+      "category": "国际",
+      "summary": "联合国秘书长古特雷斯对周三早些时候尼泊尔和中国发生的严重洪灾深感悲痛。这些灾难夺走了许多人的生命，造成多人失踪，并导致大范围破坏。他向遇难者家属表示哀悼，并祝愿伤者早日康复，向所有受灾民众表达声援。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142692",
+      "publishedAt": "2026-08-26T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -1637,24 +1655,6 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/08/1142662",
-      "publishedAt": "2026-08-20T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/08/1142661",
-      "title": "南苏丹：联合国委员会警告选举保障措施缺失或助长冲突重燃",
-      "category": "国际",
-      "summary": "联合国南苏丹人权委员会周四在最新咨询意见中警告称，南苏丹正迈向独立以来首次全国大选，但实现和平、可信并推动民主变革所需的政治、安全和人权保障措施基本缺失。如果缺乏巩固民主、防止国家分裂的战略，选举可能助长冲突重燃，并加剧暴行犯罪风险。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/08/1142661",
       "publishedAt": "2026-08-20T12:00:00.000Z",
       "tags": [
         "国际",
