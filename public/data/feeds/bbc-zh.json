@@ -5,11 +5,18 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/trad#0",
+      "title": "科學家分析尼泊爾—西藏致命山洪的來龍去脈",
+      "meta": "BBC 中文 · 2026/8/27",
+      "url": "https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T16:52:46.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad#1",
       "title": "西藏—尼泊爾邊境山洪暴發 上千人失蹤包括多國遊客",
       "meta": "BBC 中文 · 2026/8/27",
       "url": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T09:54:13.000Z"
+      "publishedAt": "2026-08-27T12:08:37.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c7v46pr3ylqo/trad#0",
@@ -68,7 +75,7 @@
       "publishedAt": "2026-08-26T10:25:24.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckg8v11revgo/trad#1",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckg8v11revgo/trad#4",
       "title": "美國再次制裁伊朗能成功向德黑蘭政權施壓嗎？",
       "meta": "BBC 中文 · 2026/8/26",
       "url": "https://www.bbc.com/zhongwen/articles/ckg8v11revgo/trad?at_medium=RSS&at_campaign=rss",
@@ -173,13 +180,6 @@
       "publishedAt": "2026-08-21T11:05:58.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr59gmzdj2zo/trad#4",
-      "title": "生於烏克蘭，為何替俄羅斯作戰？俘虜向BBC講述背後故事",
-      "meta": "BBC 中文 · 2026/8/21",
-      "url": "https://www.bbc.com/zhongwen/articles/cr59gmzdj2zo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T08:21:37.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad#3",
       "title": "美國稱數十國助中國避特朗普關稅",
       "meta": "BBC 中文 · 2026/8/14",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-08-27T09:57:37.725Z",
+  "updatedAt": "2026-08-27T20:34:46.633Z",
   "provider": "OneBench 公共资讯快照"
 }
