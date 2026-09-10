@@ -5,6 +5,27 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czjzvdxw8gvo/trad#0",
+      "title": "青島北海造船廠外籍貨輪大火 失聯25人已確定全部死亡",
+      "meta": "BBC 中文 · 2026/9/10",
+      "url": "https://www.bbc.com/zhongwen/articles/czjzvdxw8gvo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T12:47:54.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/ckgxyvrel0ko/trad#0",
+      "title": "香港記協主席訴《華爾街日報》解僱案 法庭判局部有罪",
+      "meta": "BBC 中文 · 2026/9/10",
+      "url": "https://www.bbc.com/zhongwen/articles/ckgxyvrel0ko/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T10:46:03.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/czezw30076zo/trad#3",
+      "title": "為甚麼Gen Z的測試成績正在下跌？",
+      "meta": "BBC 中文 · 2026/9/10",
+      "url": "https://www.bbc.com/zhongwen/articles/czezw30076zo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T08:58:11.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzp5561n2o/trad#0",
       "title": "蘋果摺疊式iPhone：新任掌舵人的豪賭，能轉化為實質銷量嗎？",
       "meta": "BBC 中文 · 2026/9/10",
@@ -54,7 +75,7 @@
       "publishedAt": "2026-09-09T09:08:24.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyrj0l2ydyo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/clyrj0l2ydyo/trad#2",
       "title": "關稅真正會讓加拿大人和美國人付出什麼代價",
       "meta": "BBC 中文 · 2026/9/9",
       "url": "https://www.bbc.com/zhongwen/articles/clyrj0l2ydyo/trad?at_medium=RSS&at_campaign=rss",
@@ -75,7 +96,7 @@
       "publishedAt": "2026-09-09T01:05:42.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c33k4zjm6lro/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c33k4zjm6lro/trad#2",
       "title": "推崇⽑澤東的「Z世代」：彈幕、「教員」與政治失語",
       "meta": "BBC 中文 · 2026/9/9",
       "url": "https://www.bbc.com/zhongwen/articles/c33k4zjm6lro/trad?at_medium=RSS&at_campaign=rss",
@@ -94,20 +115,6 @@
       "meta": "BBC 中文 · 2026/9/8",
       "url": "https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-08T06:35:07.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c5ym2zy4r77o/trad#2",
-      "title": "定罪戰犯「波斯尼亞屠夫」姆拉迪奇去世 塞爾維亞數千人送殯",
-      "meta": "BBC 中文 · 2026/9/8",
-      "url": "https://www.bbc.com/zhongwen/articles/c5ym2zy4r77o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T03:26:47.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3v4d0kpg3zo/trad#2",
-      "title": "哈利和梅根重返英國 國王發函重申兩人已非「在職王室成員」",
-      "meta": "BBC 中文 · 2026/9/8",
-      "url": "https://www.bbc.com/zhongwen/articles/c3v4d0kpg3zo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T02:44:29.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad#5",
@@ -150,13 +157,6 @@
       "meta": "BBC 中文 · 2026/9/3",
       "url": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-03T00:24:43.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwyzd1jp8gqo/trad#3",
-      "title": "重獲自由未有期 回顧黃之鋒的公共生涯",
-      "meta": "BBC 中文 · 2026/9/2",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyzd1jp8gqo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T13:55:55.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-07-29T11:14:21.000Z"
     }
   ],
-  "updatedAt": "2026-09-10T07:22:04.509Z",
+  "updatedAt": "2026-09-10T12:57:36.098Z",
   "provider": "OneBench 公共资讯快照"
 }
