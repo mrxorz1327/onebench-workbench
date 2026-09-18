@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T16:31:10.506Z",
-  "expiresAt": "2026-09-18T22:31:10.506Z",
+  "generatedAt": "2026-09-18T20:58:14.904Z",
+  "expiresAt": "2026-09-19T02:58:14.904Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -1598,23 +1598,6 @@
       "hot": false
     },
     {
-      "id": "who-zh-urn:uuid:b3c946b3-54e5-479a-a7d7-479374e618c9",
-      "title": "智利成为南美洲首个被验证消除犬传播狂犬病这一公共卫生问题的国家",
-      "category": "健康",
-      "summary": "智利成为南美洲首个经世界卫生组织（世卫组织）验证已消除犬传播狂犬病这一公共卫生问题的国家。这一验证彰显该国50多年来已无人罹患狂犬病，并确认该国有能力防止再度发生传播。",
-      "source": "世界卫生组织",
-      "sourceId": "who-zh",
-      "url": "https://www.who.int/zh/news-room/14-09-2026-chile-becomes-first-country-in-south-america-validated-for-eliminating-dog-transmitted-rabies-as-a-public-health-problem",
-      "publishedAt": "2026-09-14T11:47:04.000Z",
-      "tags": [
-        "健康",
-        "育儿",
-        "家庭",
-        "公共卫生"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad#4",
       "title": "俄烏戰場為何或會迎來新一批朝鮮軍人",
       "category": "国际",
@@ -2133,6 +2116,23 @@
       "sourceId": "who-zh",
       "url": "https://www.who.int/zh/news-room/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
       "publishedAt": "2026-07-08T11:51:29.000Z",
+      "tags": [
+        "健康",
+        "育儿",
+        "家庭",
+        "公共卫生"
+      ],
+      "hot": false
+    },
+    {
+      "id": "who-zh-urn:uuid:34830c3c-06fa-44be-a871-13a6eccba77c",
+      "title": "医疗产品警报2026年第3期",
+      "category": "健康",
+      "summary": "本期世卫组织医疗产品警报涉及两批伪造的兆珂（达雷妥尤单抗）注射液。这些伪造产品在马尔代夫和墨西哥被发现。两国的国家监管机构已于2026年5月和6月向世卫组织报告了相关事件。伪造产品由未经授权的经销商提供，并且至少在一例情况中，医院收到了这些伪造产品。",
+      "source": "世界卫生组织",
+      "sourceId": "who-zh",
+      "url": "https://www.who.int/zh/news-room/03-07-2026-medical-product-alert-n-3-2026--falsified-darzalex-(daratumumab)",
+      "publishedAt": "2026-07-03T09:03:39.000Z",
       "tags": [
         "健康",
         "育儿",
