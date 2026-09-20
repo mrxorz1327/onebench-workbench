@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T18:52:38.222Z",
-  "expiresAt": "2026-09-21T00:52:38.222Z",
+  "generatedAt": "2026-09-20T22:31:16.399Z",
+  "expiresAt": "2026-09-21T04:31:16.399Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-21/10700500.shtml",
+      "title": "停车场、快递柜扫码后要先看广告，弹窗广告该怎么治？",
+      "category": "综合",
+      "summary": "缴费扫码、地图导航甚至不小心“摇一摇”，都可能弹出广告页——",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-21/10700500.shtml",
+      "publishedAt": "2026-09-20T22:23:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/09-21/10700499.shtml",
       "title": "警惕！“高仿”版证券交易App以假乱真 股民被骗200万",
@@ -550,42 +568,6 @@
         "财经",
         "教育",
         "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/09-20/10700449.shtml",
-      "title": "第23届中国—东盟博览会旅游展区 民众逛展忙",
-      "category": "综合",
-      "summary": "图为9月20日，在第23届中国—东盟博览会旅游展区北海展馆，民众选购珍珠首饰。杨宗盛 摄 图为9月20日，在第23届中国—东盟博览会旅游展区，钦州展馆吸引众多参观者。杨宗盛 摄 图为9月20日，在第23届中国—东盟博览会旅游展区，钦州展馆展示的中国四大名陶之一钦州坭兴陶。杨宗盛 摄 图为9月20日，在第23届中国—东盟博览会旅游展区，观众观看龙胜民族乐器弹唱",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/09-20/10700449.shtml",
-      "publishedAt": "2026-09-20T14:18:29.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142828",
-      "title": "联合国秘书长：非洲经济在逆风中释放强劲增长信号",
-      "category": "国际",
-      "summary": "联合国秘书长古特雷斯周日在纽约出席第五届“势不可挡的非洲”论坛时指出，世界终于认识到非洲是全球商业的游戏规则改变者，从“在非洲做生意”到“与非洲做生意”的转变正在发生。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142828",
-      "publishedAt": "2026-09-20T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
       ],
       "hot": false
     },
@@ -1570,6 +1552,24 @@
       "source": "联合国新闻",
       "sourceId": "un-news-zh",
       "url": "https://news.un.org/feed/view/zh/story/2026/09/1142794",
+      "publishedAt": "2026-09-15T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/09/1142793",
+      "title": "人权高专：遭受猛烈轰炸三年后在加沙搜寻遗骸加剧了巴勒斯坦人的创伤",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员蒂尔克周二表示，在以色列军队对加沙居民住宅实施猛烈轰炸近三年后，人们在加沙费力地从废墟中挖掘出大量遗骸，其中大多是儿童和妇女。这凸显了人们对遵守国际法问题的严重关切，并表明可能已发生包括战争罪在内的严重侵犯人权行为。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/09/1142793",
       "publishedAt": "2026-09-15T12:00:00.000Z",
       "tags": [
         "国际",
