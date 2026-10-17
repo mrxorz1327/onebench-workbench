@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T18:33:06.980Z",
-  "expiresAt": "2026-10-18T00:33:06.980Z",
+  "generatedAt": "2026-10-17T22:25:14.983Z",
+  "expiresAt": "2026-10-18T04:25:14.983Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,24 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-18/10716480.shtml",
+      "title": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡",
+      "category": "综合",
+      "summary": "也门胡塞武装17日称，沙特阿拉伯当天空袭也门西南部塔伊兹省，造成包括妇女和儿童在内至少9人死亡，另有16人受伤。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-18/10716480.shtml",
+      "publishedAt": "2026-10-17T22:19:26.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-17/10716479.shtml",
       "title": "孟加拉国度假村火灾已致10人死亡",
@@ -544,24 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/jk/2026/10-17/10716444.shtml",
       "publishedAt": "2026-10-17T13:08:15.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-17/10716398.shtml",
-      "title": "“救援先锋”王晓成：洪水中驾动力舟桥转移广西贵港被困师生",
-      "category": "综合",
-      "summary": "中新网北京10月17日电 题：“救援先锋”王晓成：洪水中驾动力舟桥转移广西贵港被困师生",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716398.shtml",
-      "publishedAt": "2026-10-17T13:07:35.000Z",
       "tags": [
         "国内",
         "社会",
