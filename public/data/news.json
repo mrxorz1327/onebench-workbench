@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T15:57:18.879Z",
-  "expiresAt": "2026-10-18T21:57:18.879Z",
+  "generatedAt": "2026-10-18T18:41:17.081Z",
+  "expiresAt": "2026-10-19T00:41:17.081Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -31,6 +31,78 @@
     }
   ],
   "items": [
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-19/10716912.shtml",
+      "title": "尼泊尔一客运吉普车坠河致3人遇难3人失踪",
+      "category": "综合",
+      "summary": "中新社加德满都10月18日电 (记者 崔楠)尼泊尔中部辛杜里县18日发生一起客运吉普车坠河事故，造成3人遇难、3人失踪，另有4人获救送医。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716912.shtml",
+      "publishedAt": "2026-10-18T17:52:32.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-19/10716911.shtml",
+      "title": "王毅同黑山副总理兼外长伊布拉希莫维奇会谈",
+      "category": "综合",
+      "summary": "当地时间2026年10月18日，中共中央政治局委员、外交部长王毅在波德戈里察同黑山副总理兼外长伊布拉希莫维奇举行会谈。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-19/10716911.shtml",
+      "publishedAt": "2026-10-18T16:54:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/10-19/10716910.shtml",
+      "title": "厄尔尼诺加剧干旱风险 菲律宾强化森林保护与修复",
+      "category": "综合",
+      "summary": "中新社马尼拉10月18日电 (记者 周璟)菲律宾环境与自然资源部18日表示，为应对厄尔尼诺可能加剧的旱情、保障水资源安全，该部门正加强菲律宾重点流域的森林巡护、退化生态系统修复和植树造林。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-19/10716910.shtml",
+      "publishedAt": "2026-10-18T16:45:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-19/10716909.shtml",
+      "title": "中超第28轮：蓉城负海港再失冠军点 英博三连胜紧追",
+      "category": "综合",
+      "summary": "中新社北京10月18日电 (刘梦青)2026赛季中超联赛第28轮比赛18日全部战罢。榜首成都蓉城0:3不敌上海海港，再次错失冠军点。位列次席的大连英博3:1战胜深圳新鹏城，与蓉城的分差缩小至6分，将争冠悬念保留至下一轮两队的直接对话。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/10-19/10716909.shtml",
+      "publishedAt": "2026-10-18T16:00:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
     {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-18/10716908.shtml",
       "title": "CBA一周综述：升降级归来 四川队获新赛季“开门红”",
@@ -490,78 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716870.shtml",
       "publishedAt": "2026-10-18T14:26:42.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-18/10716869.shtml",
-      "title": "第三届全国新闻媒体匹克球邀请赛在衡水收拍",
-      "category": "综合",
-      "summary": "中新网河北衡水10月18日电 为期两天的第三届全国新闻媒体匹克球邀请赛18日在河北衡水收官。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716869.shtml",
-      "publishedAt": "2026-10-18T14:20:14.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-18/10716868.shtml",
-      "title": "广西国际中文教师比拼教学技能：让留学生读懂中国",
-      "category": "综合",
-      "summary": "中新网南宁10月18日电(黄艳梅 梁雨诗)2026年广西国际中文教师教学技能大赛决赛近日在广西民族大学举行，10名从初赛中脱颖而出的国际中文教师同台比拼教学技能，深化教学研讨交流。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716868.shtml",
-      "publishedAt": "2026-10-18T14:17:52.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-18/10716867.shtml",
-      "title": "丙午（2026）年重阳民祭轩辕黄帝活动在陕西黄陵举行",
-      "category": "综合",
-      "summary": "中新网陕西黄陵10月18日电 (记者 阿琳娜)丙午(2026)年重阳民祭轩辕黄帝活动18日在陕西省黄陵县黄帝陵轩辕广场举行。来自社会各界的中华儿女齐聚桥山，共祭中华民族人文初祖轩辕黄帝。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716867.shtml",
-      "publishedAt": "2026-10-18T14:17:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-18/10716866.shtml",
-      "title": "北京同仁医院建院140周年高质量发展大会举办 一批重点创新平台名单发布",
-      "category": "综合",
-      "summary": "中新网北京10月18日电 一百四十年，一代代同仁人恪守“精、诚、勤、和”院训，守医者仁心，护万家安康，绘就仁心济世的医院底色。首都医科大学附属北京同仁医院建院140周年高质量发展大会18日举行。会上，一批省部级、北京市级重点创新平台名单正式发布。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-18/10716866.shtml",
-      "publishedAt": "2026-10-18T14:16:54.000Z",
       "tags": [
         "国内",
         "社会",
