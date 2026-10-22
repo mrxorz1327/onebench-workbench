@@ -5,6 +5,13 @@
   "title": "中国新闻网",
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/10-23/10719448.shtml",
+      "title": "西藏那曲巴青7.0级地震 已造成16人遇难 32人受伤",
+      "meta": "中国新闻网 · 2026/10/22",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-23/10719448.shtml",
+      "publishedAt": "2026-10-22T21:39:55.000Z"
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/10-23/10719445.shtml",
       "title": "北京队主场大胜深圳队 收获CBA常规赛三连胜",
       "meta": "中国新闻网 · 2026/10/22",
@@ -206,15 +213,8 @@
       "meta": "中国新闻网 · 2026/10/22",
       "url": "https://www.chinanews.com.cn/sh/2026/10-22/10719410.shtml",
       "publishedAt": "2026-10-22T14:03:46.000Z"
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/10-22/10719408.shtml",
-      "title": "台风“蔷琵”临近 台湾多地停班停课",
-      "meta": "中国新闻网 · 2026/10/22",
-      "url": "https://www.chinanews.com.cn/gn/2026/10-22/10719408.shtml",
-      "publishedAt": "2026-10-22T14:03:18.000Z"
     }
   ],
-  "updatedAt": "2026-10-22T17:17:38.280Z",
+  "updatedAt": "2026-10-22T21:43:22.468Z",
   "provider": "OneBench 公共资讯快照"
 }
