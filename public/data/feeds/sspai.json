@@ -5,6 +5,20 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/118317",
+      "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+      "meta": "少数派 · 2026/11/3",
+      "url": "https://sspai.com/post/118317",
+      "publishedAt": "2026-11-03T07:12:54.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/118211",
+      "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
+      "meta": "少数派 · 2026/11/3",
+      "url": "https://sspai.com/post/118211",
+      "publishedAt": "2026-11-03T02:53:50.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/118232",
       "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
       "meta": "少数派 · 2026/11/3",
@@ -59,22 +73,8 @@
       "meta": "少数派 · 2026/10/31",
       "url": "https://sspai.com/post/117953",
       "publishedAt": "2026-10-31T04:10:39.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/117867",
-      "title": "本周看什么 | 最近值得一看的 9 部作品",
-      "meta": "少数派 · 2026/10/30",
-      "url": "https://sspai.com/post/117867",
-      "publishedAt": "2026-10-30T09:57:11.000Z"
-    },
-    {
-      "id": "sspai-https://sspai.com/post/116047",
-      "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
-      "meta": "少数派 · 2026/10/30",
-      "url": "https://sspai.com/post/116047",
-      "publishedAt": "2026-10-30T06:59:21.000Z"
     }
   ],
-  "updatedAt": "2026-11-03T03:29:20.587Z",
+  "updatedAt": "2026-11-03T12:01:21.789Z",
   "provider": "OneBench 公共资讯快照"
 }
