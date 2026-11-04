@@ -54,13 +54,6 @@
       "publishedAt": "2026-11-02T03:00:41.000Z"
     },
     {
-      "id": "sspai-https://sspai.com/post/118191",
-      "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
-      "meta": "少数派 · 2026/11/1",
-      "url": "https://sspai.com/post/118191",
-      "publishedAt": "2026-11-01T23:22:45.000Z"
-    },
-    {
       "id": "sspai-https://sspai.com/post/116991",
       "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
       "meta": "少数派 · 2026/11/1",
@@ -73,8 +66,15 @@
       "meta": "少数派 · 2026/10/31",
       "url": "https://sspai.com/post/117960",
       "publishedAt": "2026-10-31T05:29:19.000Z"
+    },
+    {
+      "id": "sspai-https://sspai.com/post/117953",
+      "title": "一图流 | 一张图看懂中国版 Apple 智能",
+      "meta": "少数派 · 2026/10/31",
+      "url": "https://sspai.com/post/117953",
+      "publishedAt": "2026-10-31T04:10:39.000Z"
     }
   ],
-  "updatedAt": "2026-11-03T19:34:48.044Z",
+  "updatedAt": "2026-11-04T00:39:47.765Z",
   "provider": "OneBench 公共资讯快照"
 }
