@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T12:40:39.866Z",
-  "expiresAt": "2026-11-22T18:40:39.866Z",
+  "generatedAt": "2026-11-22T20:45:09.272Z",
+  "expiresAt": "2026-11-23T02:45:09.272Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,6 +32,510 @@
   ],
   "items": [
     {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-22/10736218.shtml",
+      "title": "李家超致贺香港特区选委会当选委员 冀秉持“爱国者治港”原则履职尽责",
+      "category": "综合",
+      "summary": "中新社香港11月22日电 香港特区行政长官李家超22日向2026年香港特区选举委员会(简称“选委会”)界别分组一般选举当选委员致贺。他期望所有选委会委员秉持“爱国者治港”原则履职尽责，为“一国两制”实践行稳致远贡献力量。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736218.shtml",
+      "publishedAt": "2026-11-22T15:58:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-22/10736217.shtml",
+      "title": "香港特区选委会界别分组一般选举结果揭晓 全部选委顺利产生",
+      "category": "综合",
+      "summary": "中新社香港11月22日电 (记者 刘玥晴)2026年香港特区选举委员会(简称“选委会”)界别分组一般选举结果22日晚揭晓。根据选举事务处公布的结果，856名候选人竞逐的31个界别分组中723席选委全部顺利产生。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736217.shtml",
+      "publishedAt": "2026-11-22T15:57:11.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-22/10736216.shtml",
+      "title": "2026中国壁球公开赛落幕 埃及和马来西亚选手分获男、女单打冠军",
+      "category": "综合",
+      "summary": "中新社上海11月22日电 (记者 缪璐)2026中国壁球公开赛决赛22日晚在上海举行。埃及名将穆斯塔法·阿萨尔、马来西亚名将苏布拉马尼娅姆·西瓦桑加里分获男、女单打冠军。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736216.shtml",
+      "publishedAt": "2026-11-22T15:34:38.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-22/10736215.shtml",
+      "title": "创14个月新低 国际金价走势与地缘政治局势变化有何关联？",
+      "category": "综合",
+      "summary": "本周，国际金价出现连续下跌。国际现货黄金单周跌幅达8.9%，每盎司3800美元、3700美元、3600美元关口接连失守，现货黄金最低触及每盎司3502美元，创14个月新低。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736215.shtml",
+      "publishedAt": "2026-11-22T15:13:49.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-22/10736214.shtml",
+      "title": "联合国气候变化安塔利亚大会闭幕",
+      "category": "综合",
+      "summary": "当地时间22日，《联合国气候变化框架公约》第三十一次缔约方大会(COP31)闭幕，未就政治决定达成一致。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736214.shtml",
+      "publishedAt": "2026-11-22T14:55:52.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-22/10736213.shtml",
+      "title": "青海德令哈5.6级地震经三轮排查无人员伤亡",
+      "category": "综合",
+      "summary": "中新网西宁11月22日电 (记者 潘雨洁)22日晚间，记者从青海省地震局获悉，目前青海省海西州德令哈市已开展三轮拉网式滚动排查，经排查，全市无人员伤亡、无房屋倒塌、无重大财产损失及重大安全险情。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736213.shtml",
+      "publishedAt": "2026-11-22T14:37:37.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-22/10736207.shtml",
+      "title": "速度滑冰世界杯日本带广站：中国队2金3银2铜收官",
+      "category": "综合",
+      "summary": "中新社东京11月22日电 国际滑联官网消息，2026-2027赛季速度滑冰世界杯日本带广站22日落幕，北京冬奥会冠军、中国名将高亭宇当日在男子500米第二次比赛中摘银。中国队共获2金3银2铜，位列奖牌榜第二，仅次于传统劲旅荷兰队。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736207.shtml",
+      "publishedAt": "2026-11-22T14:05:29.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-22/10736208.shtml",
+      "title": "日本文部科学大臣因政治筹款丑闻面临辞职压力",
+      "category": "综合",
+      "summary": "中新社东京11月22日电 (记者 朱晨曦)据日本媒体22日报道，日本文部科学大臣关芳弘因邀请政府部门工作人员出席政治筹款活动等问题持续受到质疑，朝野人士要求其辞职。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736208.shtml",
+      "publishedAt": "2026-11-22T14:05:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-22/10736206.shtml",
+      "title": "（文化新纪行）山东梁山打造分布式流动演出 水浒文脉蕴新活力",
+      "category": "综合",
+      "summary": "中新社山东梁山11月22日电 题：山东梁山打造分布式流动演出 水浒文脉蕴新活力",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736206.shtml",
+      "publishedAt": "2026-11-22T14:04:31.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-22/10736205.shtml",
+      "title": "错峰秋假，让淡季旅游“热”起来",
+      "category": "综合",
+      "summary": "主播说联播丨错峰秋假，让淡季旅游“热”起来",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736205.shtml",
+      "publishedAt": "2026-11-22T13:59:41.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-22/10736203.shtml",
+      "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间",
+      "category": "综合",
+      "summary": "新华社北京11月22日电 题：从“尝鲜”到“潮流”，智能穿戴打开消费新空间",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736203.shtml",
+      "publishedAt": "2026-11-22T13:52:36.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-22/10736202.shtml",
+      "title": "重大工程有序推进 助力经济民生发展",
+      "category": "综合",
+      "summary": "这几天，一批重大工程建设有序推进，未来将推动经济民生发展。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736202.shtml",
+      "publishedAt": "2026-11-22T13:50:42.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-22/10736204.shtml",
+      "title": "多方协同发力 保障冬季“菜篮子”量足价稳",
+      "category": "综合",
+      "summary": "玉溪市通海县是云南省的露地蔬菜基地之一，也是我国“南菜北运”的重要枢纽。入冬后，这里的10万亩蔬菜陆续进入采收高峰，每天都发送供应到全国各地市场。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736204.shtml",
+      "publishedAt": "2026-11-22T13:48:50.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/aseaninfo/2026/11-22/10736199.shtml",
+      "title": "昆明口岸今年以来中泰往来旅客突破百万人次",
+      "category": "综合",
+      "summary": "【东盟专线】昆明口岸今年以来中泰往来旅客突破百万人次",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/aseaninfo/2026/11-22/10736199.shtml",
+      "publishedAt": "2026-11-22T12:58:23.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-22/10736198.shtml",
+      "title": "毕马威发布能源转型新书 助企业明确自身角色",
+      "category": "综合",
+      "summary": "中新网北京11月22日电 (记者 张素)近日发布的能源转型新书提出“定位—路径—资产重估—能力—底线”五层决策框架，旨在帮助企业明确自身在能源转型中的角色。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736198.shtml",
+      "publishedAt": "2026-11-22T12:57:55.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-22/10736197.shtml",
+      "title": "西藏扎囊拓宽农牧民淡季增收路 提供770个就业岗位",
+      "category": "综合",
+      "summary": "中新网拉萨11月22日电 (记者 贡桑拉姆)近日，西藏山南市扎囊县联合湖南省第十一批援藏工作队株洲组，举办全县首届农牧民淡季区外就业援藏专场招聘会。活动吸引68家用人单位参会，提供就业岗位770个，20名农牧民与用工单位达成就业意向。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736197.shtml",
+      "publishedAt": "2026-11-22T12:50:21.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-22/10736196.shtml",
+      "title": "全国大学生文旅与会展竞赛吸引多国学子参赛",
+      "category": "综合",
+      "summary": "中新网哈尔滨11月22日电 (韩竺夏)22日，第二十届全国大学生文化旅游与会展竞赛(全国高校商业精英挑战赛文旅与会展创新创业实践竞赛)总决赛精英赛(以下简称“竞赛”)在黑龙江财经学院落幕。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736196.shtml",
+      "publishedAt": "2026-11-22T12:50:03.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-22/10736180.shtml",
+      "title": "2026中国大学生路跑联赛全国总决赛在成都举行 西南大学夺得团体冠军",
+      "category": "综合",
+      "summary": "图为北京体育大学参赛选手在比赛现场交接绶带。中新社记者 张浪 摄 图为中国海洋大学参赛选手在比赛现场交接绶带。中新社记者 张浪 摄 图为西南大学参赛选手在比赛现场。中新社记者 张浪 摄 图为南开大学参赛选手在比赛现场交接绶带。中新社记者 张浪 摄 图为比赛现场。中新社记者 张浪 摄 图为西南大学参赛选手在比赛现场。中新社记者 张浪 摄 图为西南大学参赛选手冲",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736180.shtml",
+      "publishedAt": "2026-11-22T12:48:33.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-22/10736178.shtml",
+      "title": "光影绘山河 生态护拉萨",
+      "category": "综合",
+      "summary": "图为当地市民观展。 中新社记者 贡嘎来松 摄 图为当地市民观展。 中新社记者 贡嘎来松 摄 图为当地市民观展。 中新社记者 贡嘎来松 摄 图为当地市民观展。 中新社记者 贡嘎来松 摄 图为当地市民观展。 中新社记者 贡嘎来松 摄 图为当地市民观展。 中新社记者 贡嘎来松 摄",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736178.shtml",
+      "publishedAt": "2026-11-22T12:47:27.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-22/10736194.shtml",
+      "title": "“香港精神号”艺术涂装客机模型将亮相香港西九海滨",
+      "category": "综合",
+      "summary": "中新网香港11月22日电 据香港西九文化区22日消息，香港西九海滨长廊将设置一架机身长达3米、披上“‘香港精神号’——80周年纪念版”艺术涂装的国泰航空波音777#8209;300ER客机模型。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736194.shtml",
+      "publishedAt": "2026-11-22T12:47:15.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-22/10736192.shtml",
+      "title": "内蒙古医科大学党委原书记赵云山被开除党籍和公职",
+      "category": "综合",
+      "summary": "中新网11月22日电 据内蒙古自治区纪委监委消息：经内蒙古自治区党委批准，内蒙古自治区纪委监委对内蒙古医科大学党委原书记赵云山严重违纪违法问题进行了立案审查调查。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736192.shtml",
+      "publishedAt": "2026-11-22T12:46:17.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-22/10736193.shtml",
+      "title": "（粤港澳大湾区）三港联动 粤港澳大湾区邮轮旅游升温",
+      "category": "综合",
+      "summary": "中新社广州11月22日电 (记者 程景伟)22日18时许，中国第二艘国产大型邮轮“爱达·花城号”搭载游客驶离广州南沙国际邮轮母港，正式开启6天5晚的商业首航，前往中国香港、越南顺化(真美)。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736193.shtml",
+      "publishedAt": "2026-11-22T12:45:25.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-22/10736189.shtml",
+      "title": "短道速滑世巡赛首尔站收官 中国队获接力一金一铜",
+      "category": "综合",
+      "summary": "中新社首尔11月22日电 国际滑联官网消息，2026-2027赛季短道速滑世界巡回赛韩国首尔站22日收官。中国队在本站打破新赛季世巡赛“金牌荒”，斩获女子3000米接力金牌，并夺得混合团体接力铜牌。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736189.shtml",
+      "publishedAt": "2026-11-22T12:40:40.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-22/10736187.shtml",
+      "title": "中国援赤几医疗队发起“云端”交流 分享妇产科诊疗经验",
+      "category": "综合",
+      "summary": "中新网约翰内斯堡11月22日电 针对赤道几内亚当地妇产科临床诊疗需求，第34批援赤道几内亚中国医疗队近日牵线中国国内医疗机构，在赤道几内亚巴塔总医院开展远程学术交流，通过专题讲座、手术视频演示及病例研讨，帮助当地医护人员提升高危产科疾病诊疗及妇科微创手术能力。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736187.shtml",
+      "publishedAt": "2026-11-22T12:40:04.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-22/10736188.shtml",
+      "title": "从深圳出发，他们去了哪里",
+      "category": "综合",
+      "summary": "深圳之于APEC，是一个新的起点。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736188.shtml",
+      "publishedAt": "2026-11-22T12:39:20.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/11-22/10736184.shtml",
+      "title": "“小雪进补”莫跟风 专家：辨清体质再“补” 科学减重需“抗炎”",
+      "category": "综合",
+      "summary": "中新网广州11月22日电 (记者 蔡敏婕)随着小雪节气临近，岭南地区告别秋日温润，迎来湿冷交替、气温骤降的换季关键期。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-22/10736184.shtml",
+      "publishedAt": "2026-11-22T12:35:08.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-22/10736185.shtml",
+      "title": "（文化新纪行）外国游客爱上“当一天中国古人”",
+      "category": "综合",
+      "summary": "中新社北京11月22日电 (记者 应妮)今年以来，在持续走热的“China Travel”中，微妙的变化或许不在数量，而在方式。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736185.shtml",
+      "publishedAt": "2026-11-22T12:34:22.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-22/10736183.shtml",
+      "title": "国家级青少年皮划艇赛事落地宁波 山水之间释放运动活力",
+      "category": "综合",
+      "summary": "中新网宁波11月22日电(张煜欢 宣佳含)11月21日至22日，“富邦湖山天地”杯2026全国青少年皮划艇U系列联赛总决赛(宁波荪湖站)在宁波市江北区开赛，330余名来自国内各地的青少年选手齐聚山水之间，在青山环抱的自然水域开启年度收官之战。",
+      "source": "中国新闻网",
+      "sourceId": "chinanews-scroll",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736183.shtml",
+      "publishedAt": "2026-11-22T12:33:14.000Z",
+      "tags": [
+        "国内",
+        "社会",
+        "财经",
+        "教育",
+        "健康"
+      ],
+      "hot": false
+    },
+    {
       "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-22/10736181.shtml",
       "title": "云南连续四年举办边境幸福村体育嘉年华 以赛事赋能兴边富民",
       "category": "综合",
@@ -58,510 +562,6 @@
       "sourceId": "chinanews-scroll",
       "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736179.shtml",
       "publishedAt": "2026-11-22T12:22:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-22/10736173.shtml",
-      "title": "阿富汗警方称打死3名武装分子",
-      "category": "综合",
-      "summary": "中新社北京11月22日电 喀布尔消息：当地时间11月22日，阿富汗内政部发布通报称，阿富汗警方特种部队21日在首都喀布尔第11区开展行动，其间与武装分子发生交火，打死3名武装分子。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736173.shtml",
-      "publishedAt": "2026-11-22T12:22:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-22/10736177.shtml",
-      "title": "邢少臣师生作品展呈现当代大写意绘画的传承脉络",
-      "category": "综合",
-      "summary": "中新网北京11月22日电 “近墨者明——邢少臣师生作品展”21日在北京人民美术出版社画廊开幕，展出中国国家画院研究员邢少臣及其15名学生的中国画作品近百幅，集中呈现当代大写意绘画的传承脉络。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736177.shtml",
-      "publishedAt": "2026-11-22T12:18:49.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-22/10736176.shtml",
-      "title": "近500名粤港澳骑行爱好者“骑”聚珠海",
-      "category": "综合",
-      "summary": "中新网珠海11月22日电 (记者 张璐)“中国体育彩票”2026环粤港澳大湾区城市自行车挑战赛(珠海站)22日在珠海海岸公园开赛，吸引近500名粤港澳骑行爱好者参加。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-22/10736176.shtml",
-      "publishedAt": "2026-11-22T12:18:17.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-22/10736175.shtml",
-      "title": "硬科技冠军营（西安站）暨光子产业投资对接会在西安举行",
-      "category": "综合",
-      "summary": "中新网西安11月22日电 (记者 阿琳娜)以“汇光成炬 星耀新程”为主题的硬科技冠军营(西安站)暨光子产业投资对接会20日在西安举办。全国光子赛道近70位头部企业家、投资机构代表齐聚现场，共寻光子产业合作机遇，聚力延链补链强链。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736175.shtml",
-      "publishedAt": "2026-11-22T12:17:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-22/10736174.shtml",
-      "title": "院士专家北京共论脑机接口未来图景",
-      "category": "综合",
-      "summary": "中新社北京11月22日电 (记者 陈杭)在2026脑机接口大会上，专家学者围绕技术、应用、产业化与治理展开探讨，勾勒出脑机接口从帮助截瘫患者站立行走到“脑联网”的未来图景。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736174.shtml",
-      "publishedAt": "2026-11-22T12:16:35.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-22/10736172.shtml",
-      "title": "以刀为笔续文脉 贺昆师生百余件“绝版木刻”昆明展出",
-      "category": "综合",
-      "summary": "中新网昆明11月22日电 (记者 杜潇潇)“风华扬帆绝版刀歌——贺昆师生优秀作品展”22日在昆明文达画廊开展。展览集中展出中国绝版木刻领军人物贺昆及其学子的精品力作，以百余件版画作品，铺展这项诞生于云南红土之上的独特艺术，展现绝版木刻代际传承与创新发展的鲜活面貌。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736172.shtml",
-      "publishedAt": "2026-11-22T12:16:07.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-22/10736139.shtml",
-      "title": "韩国教育部长官因应对高考作弊引发混乱提出辞职",
-      "category": "综合",
-      "summary": "中新网首尔11月22日电 据韩联社22日报道，因2027学年度大学修学能力考试(即韩国高考)应对作弊工作引发混乱，给考生及公众带来不便，韩国教育部长官崔教振当天表示，决定就此事承担责任并提出辞职。韩国总统李在明随后接受了他的辞呈。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736139.shtml",
-      "publishedAt": "2026-11-22T12:15:01.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-22/10736171.shtml",
-      "title": "上交所：已有20家做市商为273只科创板股票提供做市服务",
-      "category": "综合",
-      "summary": "中新网上海11月22日电 (高志苗)记者22日从上海证券交易所获悉，目前，已有20家做市商为273只科创板股票提供做市服务，覆盖44%科创板上市公司，全面覆盖科创50、科创100等重要指数的成分股。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736171.shtml",
-      "publishedAt": "2026-11-22T12:14:13.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-22/10736170.shtml",
-      "title": "“小雪”至腌菜正当时 盐与时间酿出中国东北老味道",
-      "category": "综合",
-      "summary": "中新社沈阳11月22日电 题：“小雪”至腌菜正当时 盐与时间酿出中国东北老味道",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736170.shtml",
-      "publishedAt": "2026-11-22T12:06:20.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-22/10736168.shtml",
-      "title": "美食文旅节目《寻味山海》走进辽宁锦州品山海相拥的滋味",
-      "category": "综合",
-      "summary": "中新网北京11月22日电 锦州地处辽宁省西南部，北依松岭山脉，南临渤海辽东湾，山、河、海在此地交汇，养出了锦州丰饶的海陆物产。大型风物美食文旅节目《寻味山海》21日晚在总台综合频道播出，观众跟随主持人走进辽宁锦州，品味山海相拥的滋味。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-22/10736168.shtml",
-      "publishedAt": "2026-11-22T12:04:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-22/10736167.shtml",
-      "title": "上交所：预计本年度沪市整体降费金额超过24亿元",
-      "category": "综合",
-      "summary": "中新网上海11月22日电 (高志苗)上海证券交易所22日发布《关于进一步减免相关费用的通知》，推出新一批降费措施，包括免收交易单元使用费，减免数据中心相关服务费用等，并将今年初已发布的免收上市费、债券经手费等措施有效期再延长两年。本次新推出的降费措施预计向市场让利13.68亿元，预计本年度沪市整体降费金额超过24亿元。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736167.shtml",
-      "publishedAt": "2026-11-22T12:02:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-22/10736165.shtml",
-      "title": "海外学生走进汕头潮州 读侨批学英歌舞感知潮汕文化魅力",
-      "category": "综合",
-      "summary": "中新社广东汕头11月22日电 (李怡青 林大森)“这封侨批里除了报平安，说了很多家长里短的话，反复叮嘱家人购置饰品。看到侨批实物感触很深，侨批不只是钱和信，更是一份跨越重洋的诚信、牵挂和亲情。”巴拿马学生钟慧恩22日接受采访时说。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736165.shtml",
-      "publishedAt": "2026-11-22T12:01:10.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-22/10736169.shtml",
-      "title": "张雪亲自下场 在珠海体验张雪机车820RR",
-      "category": "综合",
-      "summary": "图为张雪载人体验张雪机车820RR。中新社记者 陈楚红 摄 图为张雪载人体验张雪机车820RR。中新社记者 陈楚红 摄 图为张雪在赛道上做发车前的准备。中新社记者 陈楚红 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736169.shtml",
-      "publishedAt": "2026-11-22T12:00:26.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-22/10736164.shtml",
-      "title": "香港羽毛球公开赛：中国选手王祉怡女单卫冕 混双“凤凰”组合夺冠",
-      "category": "综合",
-      "summary": "中新社香港11月22日电 (记者 赵静怡)2026年中国香港羽毛球公开赛决赛22日在香港启德体育园体艺馆举行，中国选手王祉怡2:0战胜泰国选手李美妙，卫冕女单冠军；在混双决赛中，中国国家羽毛球队“凤凰”组合冯彦哲/黄东萍“逆风翻盘”，以2:1战胜队友蒋振邦/魏雅欣，夺得冠军。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736164.shtml",
-      "publishedAt": "2026-11-22T11:54:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/11-22/10736162.shtml",
-      "title": "高海拔跨域5G远程机器人肾癌根治手术完成 辽藏协同助力高原医疗",
-      "category": "综合",
-      "summary": "中新网拉萨11月22日电 (谢牧)近日，中华医学会第三十三届泌尿外科学术会议(CUA2026)在武汉举办，大会首场远程手术演示顺利实施。这是中国首次融合3D打印术前精准规划的高海拔跨域5G远程机器人肾癌根治手术，数千名海内外泌尿外科专家线上观摩，向国际同行展示中国智慧医疗与高原微创外科的创新成果。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/jk/2026/11-22/10736162.shtml",
-      "publishedAt": "2026-11-22T11:53:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-22/10736163.shtml",
-      "title": "通讯丨虫口夺粮——中国与粮农组织合作防治非洲农作物虫害",
-      "category": "综合",
-      "summary": "新华社内罗毕11月21日电 通讯｜虫口夺粮——中国与粮农组织合作防治非洲农作物虫害",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736163.shtml",
-      "publishedAt": "2026-11-22T11:43:25.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-22/10736160.shtml",
-      "title": "湿地仰望满天星 上海崇明生态岛倡导暗夜守护",
-      "category": "综合",
-      "summary": "中新网上海11月22日电 (记者 张亨伟)作为崇明世界级生态岛的重要组成部分，东滩湿地保留着上海稀缺的低光污染空域。11月21日至22日，2026崇明东滩首届星友会在东滩湿地公园举办。不少市民、天文爱好者仰望星河，直观感受暗夜生态保护的重要性。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736160.shtml",
-      "publishedAt": "2026-11-22T11:41:37.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-22/10736161.shtml",
-      "title": "中国最大盐湖持续保障新能源原料绿色供给",
-      "category": "综合",
-      "summary": "中新网青海格尔木11月22日电 (李隽)中国最大盐湖企业青海盐湖工业股份有限公司22日消息，该公司锂电科技分公司4万吨碳酸锂项目自2025年9月28日投料投产以来，累计产出电池级碳酸锂超4万吨，可满足约80万台新能源汽车电池用料需求。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736161.shtml",
-      "publishedAt": "2026-11-22T11:41:21.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-22/10736156.shtml",
-      "title": "云南昆明小雪节气暖阳相伴 民众滇池畔乐享周末",
-      "category": "综合",
-      "summary": "11月22日是小雪节气，云南昆明天气晴好，民众来到滇池边，在冬日暖阳中享受闲适的周末时光。中新社记者 刘冉阳 摄 11月22日是小雪节气，云南昆明天气晴好，民众来到滇池边，在冬日暖阳中享受闲适的周末时光。中新社记者 刘冉阳 摄 11月22日是小雪节气，云南昆明天气晴好，民众来到滇池边，在冬日暖阳中享受闲适的周末时光。中新社记者 刘冉阳 摄 11月22日是小雪",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736156.shtml",
-      "publishedAt": "2026-11-22T11:24:22.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-22/10736157.shtml",
-      "title": "江西赣州：“小雪”迎暖阳 民众公园乐享周末",
-      "category": "综合",
-      "summary": "11月22日，江西赣州章贡区，民众在城市中央公园游玩。中新社记者 刘力鑫 摄 11月22日，江西赣州章贡区，民众在城市中央公园露营。中新社记者 刘力鑫 摄 11月22日，江西赣州章贡区，民众在城市中央公园湖上乘船游玩。中新社记者 刘力鑫 摄 11月22日，江西赣州章贡区，民众在城市中央公园露营。中新社记者 刘力鑫 摄 11月22日，江西赣州章贡区，民众在城市",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736157.shtml",
-      "publishedAt": "2026-11-22T11:23:40.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/tp/2026/11-22/10736153.shtml",
-      "title": "河南开封：小雪时节冬桃红 特色林果助振兴",
-      "category": "综合",
-      "summary": "图为果农展示采摘的冬桃。李新义 摄 图为果农品尝冬桃口感。李新义 摄 图为果农采摘冬桃。李新义 摄 图为果农分拣果品准备外销。李新义 摄 图为果农录制冬桃推介视频。李新义 摄 图为果农采摘冬桃。李新义 摄",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/tp/2026/11-22/10736153.shtml",
-      "publishedAt": "2026-11-22T11:21:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-22/10736155.shtml",
-      "title": "多国兰花奖嘉宾太原对话 探讨文明交流互鉴路径",
-      "category": "综合",
-      "summary": "中新网太原11月22日电 (记者 胡健)“表里山河晋韵新生”国际文明交流对话会22日在山西太原举办，来自12个国家的兰花奖获奖嘉宾、国际评委，以及中外文博专家，围绕文化遗产保护传承、文明交流互鉴路径等议题展开交流。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736155.shtml",
-      "publishedAt": "2026-11-22T11:20:38.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-22/10736150.shtml",
-      "title": "高原银幕接力：青海德令哈父子的草原光影之约",
-      "category": "综合",
-      "summary": "中新网青海德令哈11月22日电 题：高原银幕接力：青海德令哈父子的草原光影之约",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736150.shtml",
-      "publishedAt": "2026-11-22T11:16:08.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-22/10736124.shtml",
-      "title": "东西问丨多国政要点赞深圳、感谢中国：完美得无可挑剔",
-      "category": "综合",
-      "summary": "作者 贺劭清 李嘉茵 王宗汉",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736124.shtml",
-      "publishedAt": "2026-11-22T11:16:04.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-22/10736149.shtml",
-      "title": "重庆国际人才交流大会成果发布：集中引进优秀人才3955名",
-      "category": "综合",
-      "summary": "中新网重庆11月22日电 (记者 钟旖)重庆国际人才交流大会成果新闻发布会22日举行。重庆市委组织部副部长(主持日常工作)陈英介绍，大会集中引进硕博士等优秀人才3955名，在引才数量增长的同时，质量也在明显提升，其中出站博士后、博士等青年科技人才620名，为重庆创新强市建设注入新锐力量。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736149.shtml",
-      "publishedAt": "2026-11-22T11:13:30.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-22/10736151.shtml",
-      "title": "特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一",
-      "category": "综合",
-      "summary": "中新网11月22日电 综合外媒报道，当地时间20日，美国总统特朗普在白宫举行的新闻发布会上表示，日前在中国深圳举行的亚太经合组织领导人非正式会议是一场非常成功的经济会议，美国、中国和俄罗斯三国领导人还举行了首次三方会晤，这是“多年来最具重大意义”的国际会晤之一。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736151.shtml",
-      "publishedAt": "2026-11-22T11:12:46.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-22/10736148.shtml",
-      "title": "长春大冬会志愿者昵称“小冰凌”及标识发布",
-      "category": "综合",
-      "summary": "中新网长春11月22日电 (高龙安 李彦国)22日，长春2027第33届世界大学生冬季运动会(下称“长春大冬会”)志愿者昵称“小冰凌”以及志愿者标识首次对外发布。当天，长春大冬会志愿者风采展示活动在长春市五环体育馆举办，6000余名志愿者及嘉宾齐聚现场，以青春之姿展现志愿担当，共赴冰雪盛会之约。",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736148.shtml",
-      "publishedAt": "2026-11-22T11:11:43.000Z",
-      "tags": [
-        "国内",
-        "社会",
-        "财经",
-        "教育",
-        "健康"
-      ],
-      "hot": false
-    },
-    {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-22/10736147.shtml",
-      "title": "（走进中国乡村）桥通运河口 广西渔港跃“龙门”",
-      "category": "综合",
-      "summary": "中新社广西钦州11月22日电 题：桥通运河口 广西渔港跃“龙门”",
-      "source": "中国新闻网",
-      "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-22/10736147.shtml",
-      "publishedAt": "2026-11-22T11:10:21.000Z",
       "tags": [
         "国内",
         "社会",
