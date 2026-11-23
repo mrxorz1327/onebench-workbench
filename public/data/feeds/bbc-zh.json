@@ -5,6 +5,27 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6vg2vv10kjdo/trad#0",
+      "title": "胰臟癌治療現突破，新藥試驗顯示部分患者腫瘤消失",
+      "meta": "BBC 中文 · 2026/11/23",
+      "url": "https://www.bbc.com/zhongwen/articles/c6vg2vv10kjdo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T11:23:23.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmx2xj9d16wlo/trad#3",
+      "title": "COP31氣候談判破裂，各國為何未能達成共識？",
+      "meta": "BBC 中文 · 2026/11/23",
+      "url": "https://www.bbc.com/zhongwen/articles/cmx2xj9d16wlo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T08:47:39.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4gn2l17w5go/trad#0",
+      "title": "COP31未能達成重大氣候協議，談判暴露出嚴重分歧",
+      "meta": "BBC 中文 · 2026/11/23",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4gn2l17w5go/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T05:15:09.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwe85gr487dno/trad#0",
       "title": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
       "meta": "BBC 中文 · 2026/11/23",
@@ -40,14 +61,14 @@
       "publishedAt": "2026-11-22T07:39:24.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8p3vdpxwk5xo/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c8p3vdpxwk5xo/trad#2",
       "title": "以毒攻毒？道路安全研究人員找 《GTA》幫忙",
       "meta": "BBC 中文 · 2026/11/22",
       "url": "https://www.bbc.com/zhongwen/articles/c8p3vdpxwk5xo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-22T06:19:03.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq702kdw845ro/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cq702kdw845ro/trad#2",
       "title": "APEC上與習近平、特朗普歷史性會晤，對普京是一場重大勝利",
       "meta": "BBC 中文 · 2026/11/22",
       "url": "https://www.bbc.com/zhongwen/articles/cq702kdw845ro/trad?at_medium=RSS&at_campaign=rss",
@@ -103,13 +124,6 @@
       "publishedAt": "2026-11-19T17:24:59.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad#2",
-      "title": "假裝在新西蘭、提前請假、搶購主機：粉絲為《GTA 6》做足準備",
-      "meta": "BBC 中文 · 2026/11/19",
-      "url": "https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T12:43:05.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad#2",
       "title": "中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話",
       "meta": "BBC 中文 · 2026/11/19",
@@ -122,13 +136,6 @@
       "meta": "BBC 中文 · 2026/11/19",
       "url": "https://www.bbc.com/zhongwen/articles/ck782e5dxeygo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-19T10:20:44.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmly7er4rze9o/trad#2",
-      "title": "APEC的特色服飾：從克林頓皮衣到深圳「鯤鵬展翅」絲巾",
-      "meta": "BBC 中文 · 2026/11/19",
-      "url": "https://www.bbc.com/zhongwen/articles/cmly7er4rze9o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T07:05:39.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad#4",
@@ -157,13 +164,6 @@
       "meta": "BBC 中文 · 2026/11/17",
       "url": "https://www.bbc.com/zhongwen/articles/ck3rgq3l5yr1o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T07:20:52.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmg46q2nl5n2o/trad#3",
-      "title": "無法複製的奇蹟？深圳如何從改革開放樣板到「中國矽谷」",
-      "meta": "BBC 中文 · 2026/11/15",
-      "url": "https://www.bbc.com/zhongwen/articles/cmg46q2nl5n2o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T18:21:42.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad#1",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-10-20T07:42:45.000Z"
     }
   ],
-  "updatedAt": "2026-11-23T02:53:31.684Z",
+  "updatedAt": "2026-11-23T14:52:23.993Z",
   "provider": "OneBench 公共资讯快照"
 }
