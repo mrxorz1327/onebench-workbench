@@ -5,6 +5,20 @@
   "title": "联合国新闻",
   "items": [
     {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143264",
+      "title": "人权高专警告：以色列针对巴勒斯坦人民犯下暴行罪的风险日益加剧",
+      "meta": "联合国新闻 · 2026/11/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143264",
+      "publishedAt": "2026-11-25T12:00:00.000Z"
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143199",
+      "title": "【专题报道】电力转型不能止步于发电：三国经验揭示全球清洁能源转型中构筑电网挑战",
+      "meta": "联合国新闻 · 2026/11/25",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143199",
+      "publishedAt": "2026-11-25T12:00:00.000Z"
+    },
+    {
       "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143262",
       "title": "美国华盛顿州报告3例人感染H5N1禽流感病例 其中1人死亡",
       "meta": "联合国新闻 · 2026/11/24",
@@ -199,22 +213,8 @@
       "meta": "联合国新闻 · 2026/11/19",
       "url": "https://news.un.org/feed/view/zh/story/2026/11/1143231",
       "publishedAt": "2026-11-19T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143230",
-      "title": "联合国：全球电子政务持续推进 但数字鸿沟依然存在",
-      "meta": "联合国新闻 · 2026/11/19",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143230",
-      "publishedAt": "2026-11-19T12:00:00.000Z"
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143229",
-      "title": "COP31：最新协议草案删去摆脱化石燃料相关表述",
-      "meta": "联合国新闻 · 2026/11/19",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143229",
-      "publishedAt": "2026-11-19T12:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-25T11:26:58.537Z",
+  "updatedAt": "2026-11-25T21:48:32.418Z",
   "provider": "OneBench 公共资讯快照"
 }

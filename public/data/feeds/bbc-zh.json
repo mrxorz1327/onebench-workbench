@@ -5,6 +5,20 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad#0",
+      "title": "美國準備公布對全球貿易夥伴加征新關稅的計劃",
+      "meta": "BBC 中文 · 2026/11/25",
+      "url": "https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T12:18:58.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6rmgvkp322xo/trad#0",
+      "title": "BBC事實查核：與中國有關帳號用AI生成影攻擊台灣選舉候選人",
+      "meta": "BBC 中文 · 2026/11/25",
+      "url": "https://www.bbc.com/zhongwen/articles/c6rmgvkp322xo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T11:53:06.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c83vgd1l5erlo/trad#3",
       "title": "上海市委書記陳吉寧被查 中共高層明日之星意外隕落",
       "meta": "BBC 中文 · 2026/11/25",
@@ -17,13 +31,6 @@
       "meta": "BBC 中文 · 2026/11/25",
       "url": "https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-25T09:44:18.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6rmgvkp322xo/trad#0",
-      "title": "BBC事實查核：與中國有關帳號用AI生成影片猛攻台灣選舉候選人",
-      "meta": "BBC 中文 · 2026/11/25",
-      "url": "https://www.bbc.com/zhongwen/articles/c6rmgvkp322xo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T07:54:06.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c3j4r274lj82o/trad#0",
@@ -61,7 +68,7 @@
       "publishedAt": "2026-11-24T14:35:36.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad#2",
       "title": "宏福苑大火一周年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？",
       "meta": "BBC 中文 · 2026/11/24",
       "url": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad?at_medium=RSS&at_campaign=rss",
@@ -152,13 +159,6 @@
       "publishedAt": "2026-11-20T15:55:24.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad#5",
-      "title": "中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話",
-      "meta": "BBC 中文 · 2026/11/19",
-      "url": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T12:22:04.000Z"
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad#4",
       "title": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？",
       "meta": "BBC 中文 · 2026/11/19",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-10-20T07:42:45.000Z"
     }
   ],
-  "updatedAt": "2026-11-25T11:26:58.537Z",
+  "updatedAt": "2026-11-25T21:48:32.418Z",
   "provider": "OneBench 公共资讯快照"
 }
