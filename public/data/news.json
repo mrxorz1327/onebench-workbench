@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T21:48:32.418Z",
-  "expiresAt": "2026-11-26T03:48:32.418Z",
+  "generatedAt": "2026-11-26T04:11:44.063Z",
+  "expiresAt": "2026-11-26T10:11:44.063Z",
   "provider": "OneBench 公共资讯快照",
   "sources": [
     {
@@ -32,14 +32,14 @@
   ],
   "items": [
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-26/10737857.shtml",
-      "title": "中国岭南首次发现丹尼索瓦人和10.1万年前未知古人类",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-26/10738006.shtml",
+      "title": "中国牵头制定！这一国际标准成30余个欧洲国家重要技术参考",
       "category": "综合",
-      "summary": "中新网北京11月26日电 (记者 孙自法)作为古人类演化、迁徙和扩散的关键地区之一，中国岭南是否生活过丹尼索瓦人？同期还有无其他古人类共存？这些议题一直因缺乏化石记录悬而未决，也备受关注。",
+      "summary": "记者今天从国家数据局了解到，由我国专家牵头制定的人工智能训练数据质量国际标准(ISO/IEC 5259-4:2024)已被欧洲相关机构采纳，成为30余个欧洲国家人工智能合规评估的重要技术参考，将应用于人工智能训练数据采集、标注、质量判断等环节。我国在人工智能国际规则制定中持续发挥重要作用。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737857.shtml",
-      "publishedAt": "2026-11-25T16:10:50.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738006.shtml",
+      "publishedAt": "2026-11-26T03:59:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -50,14 +50,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-25/10737848.shtml",
-      "title": "德国下调三季度经济增速至0.1%",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-26/10738003.shtml",
+      "title": "中国提出到2030年建成覆盖完善、性能领先的新一代通信网",
       "category": "综合",
-      "summary": "中新社柏林11月25日电 (记者 马秀秀)德国联邦统计局25日公布的数据显示，经价格、季节和工作日调整后，2026年第三季度德国国内生产总值环比增长0.1%，较此前公布的初值下调0.1个百分点。",
+      "summary": "中新社北京11月26日电 (记者 刘亮)中国工信部26日公布，经国务院同意，工信部联合国家网信办、国家发改委近日印发《新一代通信网建设实施方案》，提出到2030年，建成覆盖完善、性能领先的新一代通信网。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737848.shtml",
-      "publishedAt": "2026-11-25T15:27:15.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738003.shtml",
+      "publishedAt": "2026-11-26T03:52:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -68,14 +68,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-25/10737851.shtml",
-      "title": "见证历史！神舟二十四号载人飞行任务全记录",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-26/10738004.shtml",
+      "title": "个人养老金四周年交出怎样的成绩单？还有哪些难题需破解？",
       "category": "综合",
-      "summary": "11月25日，搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射，任务取得圆满成功。火箭与朝霞同框画面震撼壮美，中外航天员首次“太空握手”见证历史，一起回顾神舟二十四号载人飞行任务精彩时刻！",
+      "summary": "2022年11月25日，个人养老金制度正式启动实施，至今已满四年。截至2025年底，我国个人养老金累计缴存金额已达1452亿元。个人养老金正在为更多人提供养老保障。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737851.shtml",
-      "publishedAt": "2026-11-25T15:26:27.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738004.shtml",
+      "publishedAt": "2026-11-26T03:50:44.000Z",
       "tags": [
         "国内",
         "社会",
@@ -86,14 +86,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/life/2026/11-25/10737850.shtml",
-      "title": "图说百科｜流感防治8问8答",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-26/10738001.shtml",
+      "title": "重庆长寿：荒废闲置地变民生宜居地",
       "category": "综合",
-      "summary": "急性呼吸道传染病已进入流行季。呼吸道感染可谓“多毒并存”，患者在出现相关症状后，除了要及时就诊，更要明确感染背后的“元凶”，做到有针对性治疗。",
+      "summary": "中新网重庆11月26日电 (闫沁波 殷缘)城市荒地变身便民健身公园、闲置地块蜕变为消费新场景，昔日沉寂的闲置土地正焕发全新生机......“产城融合宜居宜业地、自然长寿美丽生态城”的发展愿景正一步步照进现实。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/life/2026/11-25/10737850.shtml",
-      "publishedAt": "2026-11-25T15:24:29.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738001.shtml",
+      "publishedAt": "2026-11-26T03:50:40.000Z",
       "tags": [
         "国内",
         "社会",
@@ -104,14 +104,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-25/10737849.shtml",
-      "title": "各地全力推进冬修水利",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-26/10738000.shtml",
+      "title": "全国青少年足球训练工作会议在北京召开",
       "category": "综合",
-      "summary": "央视网消息(新闻联播)：眼下，冬修水利正值黄金期，农田水利设施加速建设。",
+      "summary": "中新网北京11月26日电 2026年全国青少年足球训练工作会议近日在北京召开。国家体育总局副局长、中国足协党委书记张家胜出席会议并讲话，中国足协主席宋凯参加会议并作总结发言，中国足协副主席万建斌主持会议。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737849.shtml",
-      "publishedAt": "2026-11-25T15:22:02.000Z",
+      "url": "https://www.chinanews.com.cn/ty/2026/11-26/10738000.shtml",
+      "publishedAt": "2026-11-26T03:49:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -122,14 +122,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-25/10737847.shtml",
-      "title": "李家超：冀香港中总助力内地企业拼船出海",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-26/10738002.shtml",
+      "title": "从雪域高原来到山城 西藏芒康青少年组团来渝 “走亲”",
       "category": "综合",
-      "summary": "中新社香港11月25日电 (记者 戴小橦)香港中华总商会(简称“中总”)第55届会董就职典礼25日在港举行。香港特区行政长官李家超出席活动并致辞称，特区政府期盼与中总等工商团体携手，推动中国内地企业拼船出海，服务强国建设。",
+      "summary": "中新网重庆11月26日电 (梁钦卿)渝芒携手赴山城，石榴花开少年行。“渝芒走亲·山水相连”2026年芒康青少年走进重庆研学实践“三交”(交往、交流、交融)活动25日在重庆市两江新区龙兴实验小学校启动，来自西藏芒康的近40名青少年开启山城研学实践之旅。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737847.shtml",
-      "publishedAt": "2026-11-25T15:13:54.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10738002.shtml",
+      "publishedAt": "2026-11-26T03:48:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -140,14 +140,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-25/10737841.shtml",
-      "title": "中外旅行商携手开发内蒙古冰雪旅游市场",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/edu/2026/11-26/10737999.shtml",
+      "title": "广东中小学卫生与健康教育授课比赛在汕头举行",
       "category": "综合",
-      "summary": "中新社内蒙古兴安盟11月25日电 (记者 张玮)“你好！中国”——2027冰雪主题旅游海外推广活动洽谈会25日晚在内蒙古自治区兴安盟阿尔山市举办。中外旅行商签署合作协议，携手开发内蒙古冰雪旅游市场。",
+      "summary": "中新网广东汕头11月26日电(李怡青 林大森)2026年广东省中小学卫生与健康教育授课比赛和学校卫生专业技术人员技能比赛26日在广东汕头开幕。经过广东各地市层层选拔，21个地市及省属学校的130名健康教师、校医同台展开角逐。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737841.shtml",
-      "publishedAt": "2026-11-25T14:14:37.000Z",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-26/10737999.shtml",
+      "publishedAt": "2026-11-26T03:48:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -158,14 +158,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-25/10737840.shtml",
-      "title": "海内外客商齐聚哈尔滨共拓入境文旅合作通道",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-26/10737997.shtml",
+      "title": "河北滦南：打造京津冀优质“菜篮子”",
       "category": "综合",
-      "summary": "中新社哈尔滨11月25日电 (记者 史轶夫 王琳)黑龙江省文化和旅游资产交易大会暨招商对接会——入境游资源交流对接活动25日在哈尔滨举办，重点引进境内外投资者、文旅龙头企业与优质旅行商，共拓入境文旅合作通道。",
+      "summary": "中新网唐山11月26日电(王夏菲 邢璐)初冬时节，走进河北省唐山市滦南县姚王庄镇的蔬菜批发市场，菜农正忙着将新鲜的蔬菜清理、分拣、打包。这些经过初步加工的净菜，将搭乘冷链运输车直供北京市场。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737840.shtml",
-      "publishedAt": "2026-11-25T14:13:53.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737997.shtml",
+      "publishedAt": "2026-11-26T03:48:05.000Z",
       "tags": [
         "国内",
         "社会",
@@ -176,14 +176,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-25/10737839.shtml",
-      "title": "孙中山先生赠予的山茶花里，藏着百年家国情",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-26/10737996.shtml",
+      "title": "中国LNG船年度交付量纪录刷新",
       "category": "综合",
-      "summary": "中新网丽水11月25日电(邵燕飞 傅飞扬 蓝倞)初冬时节，晨光洒在浙江丽水莲都万象山公园，今年74岁的青田籍华侨叶海杰缓步行至两株四五米高的山茶花下。他挺直腰板，静静看着枝繁叶茂的山茶花，期待来年春暖花开的美景。",
+      "summary": "中新网上海11月26日电 (李秋莹 东华)11月26日，中国船舶集团有限公司旗下沪东中华造船(集团)为马来西亚国家石油公司建造的大型液化天然气(LNG)运输船“森米兰公主”号在上海长兴岛提前7个月交付。该船是沪东中华2026年交付的第12艘大型LNG船，标志其刷新中国LNG船年度交付量纪录。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737839.shtml",
-      "publishedAt": "2026-11-25T14:05:26.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737996.shtml",
+      "publishedAt": "2026-11-26T03:47:09.000Z",
       "tags": [
         "国内",
         "社会",
@@ -194,14 +194,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-25/10737835.shtml",
-      "title": "中方呼吁申办《海洋生物多样性协定》秘书处相关国家友好合作、合理竞争",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-26/10737994.shtml",
+      "title": "2026浙商研究报告：浙商发展动力向“新”结构向“优”",
       "category": "综合",
-      "summary": "中新社北京11月25日电 (记者 周昕)中国外交部申办《海洋生物多样性协定》(以下简称《协定》)秘书处特使易先良25日在北京表示，有关国家不应把《协定》政治化，要在相关规则的前提下，友好合作、合理竞争，共同为海洋治理与发展作出贡献。",
+      "summary": "中新网杭州11月26日电(蓝伊旎)11月25日，浙商研究中心2026年全体会议暨《2026浙商研究报告》(下称“报告”)发布会在浙江杭州举办。报告从数量结构、经营情况、对外经济、科技创新、产业创新、社会贡献等10个维度刻画浙商发展情况。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737835.shtml",
-      "publishedAt": "2026-11-25T14:03:32.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737994.shtml",
+      "publishedAt": "2026-11-26T03:45:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -212,14 +212,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-25/10737838.shtml",
-      "title": "浙西山地间，油茶产业“长出新枝”",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-26/10737992.shtml",
+      "title": "三峡国际机场口岸出入境客流创历史新高",
       "category": "综合",
-      "summary": "中新网衢州11月25日电(董易鑫 张曌)千百年以来，油茶树依山而生、岁岁结果，撑起了浙西林农的家门口生计。而今科技赋能、机械助耕，传统油茶产业正绽放出新的产业价值。",
+      "summary": "中新网宜昌11月26日电 (钟高胜)随着搭载170名旅客的HB851次航班，于11月25日21时30分从湖北宜昌起飞前往香港，三峡国际机场口岸出入境客流突破12.3万人次，提前36天赶超2025年全年总量，再创历史新高，鄂西空中门户、支点建设作用进一步凸显。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737838.shtml",
-      "publishedAt": "2026-11-25T14:02:24.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737992.shtml",
+      "publishedAt": "2026-11-26T03:44:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -230,14 +230,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-25/10737837.shtml",
-      "title": "醒木一拍二十载 杭州运河畔书场以IP共创续文脉",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-26/10737998.shtml",
+      "title": "商务部就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问",
       "category": "综合",
-      "summary": "中新网杭州11月25日电(吴君毅)一杯清茶、一段大书，杭州评话在大运河畔的社区书台上已上演二十载。11月25日，大关街道百姓书场二十周年暨“百姓书场×老开心”联名IP发布仪式在杭州市拱墅区举行。",
+      "summary": "中新网11月26日电 据商务部网站消息，11月26日，商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737837.shtml",
-      "publishedAt": "2026-11-25T14:01:24.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737998.shtml",
+      "publishedAt": "2026-11-26T03:40:59.000Z",
       "tags": [
         "国内",
         "社会",
@@ -248,14 +248,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-25/10737836.shtml",
-      "title": "浙江镇海：百年老渡口变身市民文艺新舞台",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-26/10737995.shtml",
+      "title": "也门胡塞武装称袭击沙特两个港口",
       "category": "综合",
-      "summary": "中新网宁波11月25日电 (刘子琳 计怀斐 翁天可)近日，浙江省宁波市镇海区镇海渡“渡口·晚风”剧场迎来一场特别的演出，17名普通市民登台献唱。台下没有固定座席，观众或站或倚，跟着旋律感受江风中的文艺气息。",
+      "summary": "中新网11月26日电 据法新社报道，也门胡塞武装25日称，已对沙特阿拉伯吉达港和吉赞港发动袭击，以回应沙特主导的多国联军此前对也门红海沿岸荷台达港发动的袭击。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737836.shtml",
-      "publishedAt": "2026-11-25T14:00:00.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737995.shtml",
+      "publishedAt": "2026-11-26T03:38:31.000Z",
       "tags": [
         "国内",
         "社会",
@@ -266,14 +266,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-25/10737822.shtml",
-      "title": "英国能源限价2027年将大幅上调",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-26/10737988.shtml",
+      "title": "阿富汗警方称击毙6名武装分子",
       "category": "综合",
-      "summary": "中新社伦敦11月25日电 (记者 欧阳开宇)英国能源监管机构天然气和电力市场办公室25日宣布，受中东地缘冲突持续扰动国际能源供应链、天然气价格走高影响，英国居民能源价格上限将自2027年1月起大幅上调26%，全国约2000万户家庭将面临冬季用能成本显著上涨。",
+      "summary": "中新网11月26日电 据阿富汗帕杰瓦克通讯社报道，阿富汗喀布尔警方25日表示，安全部队24日深夜在首都喀布尔与6名武装分子交火，并将其击毙。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737822.shtml",
-      "publishedAt": "2026-11-25T13:55:38.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737988.shtml",
+      "publishedAt": "2026-11-26T03:30:34.000Z",
       "tags": [
         "国内",
         "社会",
@@ -284,14 +284,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-25/10737832.shtml",
-      "title": "厦门推进服务业扩能提质 深化两岸融合发展",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-26/10737986.shtml",
+      "title": "北京市“无事不扰”清单扩围，夯实城市发展软实力",
       "category": "综合",
-      "summary": "中新社厦门11月25日电 (吴冠标)厦门市发展和改革委员会主任孙建辉25日表示，厦门将深化两岸服务业融合发展，建强两岸区域性金融服务中心，打造台胞休闲旅游、就医康养、居住就业“第一目的地”。",
+      "summary": "“无事不扰”清单扩围，夯实城市发展软实力",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737832.shtml",
-      "publishedAt": "2026-11-25T13:53:44.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737986.shtml",
+      "publishedAt": "2026-11-26T03:29:28.000Z",
       "tags": [
         "国内",
         "社会",
@@ -302,14 +302,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-25/10737831.shtml",
-      "title": "一碗凉茶喻广府家事：电影《二十四味》在广州推介",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-26/10737985.shtml",
+      "title": "贵州长征文化旅游（集团）有限公司董事、副总经理赖基勇被查",
       "category": "综合",
-      "summary": "中新网广州11月25日电 (记者 蔡敏婕)“二十四味凉茶入口苦涩，而后缓缓回甘，这正是广府家庭的写照，家庭难免充满各样苦楚，但家也是疗愈人心的归处。”电影《二十四味》导演黄绮玲24日在广州表示，影片中，凉茶铺作为全片核心文化符号，既是一家人谋生的载体，也隐喻家庭苦尽回甘的人生况味。",
+      "summary": "中新网11月26日电 据遵义市纪委监委派驻市国资委纪检监察组、播州区纪委监委消息：贵州长征文化旅游(集团)有限公司董事、副总经理赖基勇涉嫌严重违纪违法，目前正接受遵义市纪委监委派驻市国资委纪检监察组纪律审查和播州区监委监察调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737831.shtml",
-      "publishedAt": "2026-11-25T13:53:12.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737985.shtml",
+      "publishedAt": "2026-11-26T03:20:12.000Z",
       "tags": [
         "国内",
         "社会",
@@ -320,14 +320,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-25/10737830.shtml",
-      "title": "香港对航运有关活动及实物大宗商品交易提供税务宽减",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-26/10737984.shtml",
+      "title": "巴西决定驻阿根廷大使不再返任",
       "category": "综合",
-      "summary": "中新社香港11月25日电 香港特区立法会25日三读通过《2026年税务(修订)(与航运有关的活动及实物大宗商品交易的税务宽减)条例草案》(下称“修订条例”)，引入新的实物大宗商品交易半税优惠制度，并优化航运有关活动的税务优惠制度。",
+      "summary": "中新网11月26日电 据巴西通讯社25日报道，巴西政府决定，驻阿根廷大使儒利奥·比特利不再返回阿根廷履行外交职务。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737830.shtml",
-      "publishedAt": "2026-11-25T13:52:40.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737984.shtml",
+      "publishedAt": "2026-11-26T03:14:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -338,14 +338,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/ty/2026/11-25/10737834.shtml",
-      "title": "谷爱凌训练受伤肩膀脱臼：参加云顶世界杯站可能性较小",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/hr/2026/11-26/10737983.shtml",
+      "title": "广西120名高中华裔留学生获中国华教基金会助学金",
       "category": "综合",
-      "summary": "11月25日，谷爱凌发文，称前几天在奥地利训练中不幸受伤肩膀脱臼。“开车路程一小时后到达医院，立刻拍片子正骨位。我还在等待医生的判断，但目前能参加云顶世界杯站比赛的可能性较小。很抱歉让已经购票或安排好行程、准备到现场为我加油的朋友们失望了。”",
+      "summary": "中新网南宁11月26日电(林浩)“这些奖助学金不仅减轻了我家里的经济负担，更让我知道，这个世界上还有许多自己不认识的人，默默关心着我。这份爱，我一定会好好珍惜，将来用更好的成绩来回报。”来自印度尼西亚的高中华裔留学生许智详25日在广西南宁说。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/ty/2026/11-25/10737834.shtml",
-      "publishedAt": "2026-11-25T13:52:16.000Z",
+      "url": "https://www.chinanews.com.cn/hr/2026/11-26/10737983.shtml",
+      "publishedAt": "2026-11-26T03:14:36.000Z",
       "tags": [
         "国内",
         "社会",
@@ -356,14 +356,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-25/10737827.shtml",
-      "title": "香港续签2027年“村超”全国赛 绿茵牵动黔港两地续情谊",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-26/10737981.shtml",
+      "title": "1-10月全国电力市场交易电量同比增长18.3%",
       "category": "综合",
-      "summary": "中新网贵阳11月25日电 (记者 袁超)2027年“村超”全国赛香港赛区签约仪式25日在香港举行，香港续签2027年贵州“村超”全国赛合作。这是自2023年“村超”火爆出圈后，香港连续第三年和贵州榕江携手同行。",
+      "summary": "中新网11月26日电 据国家能源局微信公众号消息，2026年10月，全国各电力交易机构完成交易电量6435亿千瓦时，同比增长14.1%。从交易范围看，省内交易电量5184亿千瓦时，同比增长18.5%；跨省跨区交易电量1251亿千瓦时，同比增长0.3%。从交易品种看，中长期交易电量5631亿千瓦时，现货交易电量804亿千瓦时。绿电交易电量339亿千瓦时，同比增",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737827.shtml",
-      "publishedAt": "2026-11-25T13:51:32.000Z",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10737981.shtml",
+      "publishedAt": "2026-11-26T03:14:30.000Z",
       "tags": [
         "国内",
         "社会",
@@ -374,14 +374,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-25/10737829.shtml",
-      "title": "王毅同荷兰外交大臣贝伦德森会谈",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/cul/2026/11-26/10737982.shtml",
+      "title": "阿根廷“中国时间”项目启动 中阿、渝阿开展广电视听交流合作",
       "category": "综合",
-      "summary": "中新社北京11月25日电 11月25日，中共中央政治局委员、外交部长王毅在北京同荷兰外交大臣贝伦德森举行会谈。",
+      "summary": "中新网重庆11月26日电 (记者 钟旖)记者26日从重庆市广播电视局获悉，阿根廷“中国时间”启动仪式暨“视听万象 文明互鉴”活动于当地时间11月24日在布宜诺斯艾利斯举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737829.shtml",
-      "publishedAt": "2026-11-25T13:49:56.000Z",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-26/10737982.shtml",
+      "publishedAt": "2026-11-26T03:13:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -392,14 +392,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-25/10737833.shtml",
-      "title": "中荷外长共识声明",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-26/10737977.shtml",
+      "title": "山东省聊城市政府党组成员、副市长孙荣军被查",
       "category": "综合",
-      "summary": "2026年11月25日，中共中央政治局委员、外交部长王毅在北京同荷兰外交大臣贝伦德森举行会谈，就中荷关系等共同关心的问题深入交流。",
+      "summary": "中新网11月26日电 据山东省纪委监委消息：山东省聊城市政府党组成员、副市长孙荣军涉嫌严重违纪违法，目前正接受山东省纪委监委纪律审查和监察调查。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737833.shtml",
-      "publishedAt": "2026-11-25T13:49:21.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737977.shtml",
+      "publishedAt": "2026-11-26T03:13:02.000Z",
       "tags": [
         "国内",
         "社会",
@@ -410,14 +410,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-25/10737826.shtml",
-      "title": "广州互联网法院发布涉网平台协助执行指引及典型案例",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/jk/2026/11-26/10737980.shtml",
+      "title": "专家学者在渝对儿童青少年身心健康问题展开探讨",
       "category": "综合",
-      "summary": "中新网广州11月25日电 (记者 方伟彬)广州互联网法院25日发布《关于涉互联网平台协助执行工作指引(试行)》(下称《工作指引》)及典型案例。2021年1月至2026年10月，该院受理执行案件54170件，其中首次执行35715件。针对涉网执行“查人找物难”、财产虚拟化查控难、失信惩戒难落实等突出问题，亟需塑造平台协助执行新格局。",
+      "summary": "中新网重庆11月26日电 (记者 周毅)由重庆医科大学主办，重庆医科大学儿童青少年身心健康医学协同创新中心、北京师范大学心理学部承办的首届精神心理与行为发育交叉学科创新发展研讨会25日在重庆医科大学举行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737826.shtml",
-      "publishedAt": "2026-11-25T13:47:47.000Z",
+      "url": "https://www.chinanews.com.cn/jk/2026/11-26/10737980.shtml",
+      "publishedAt": "2026-11-26T03:06:03.000Z",
       "tags": [
         "国内",
         "社会",
@@ -428,14 +428,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-25/10737825.shtml",
-      "title": "黑龙江迎大范围降雪 局地暴雪伴雨夹雪",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/sh/2026/11-26/10737976.shtml",
+      "title": "引诱教唆欺骗运动员使用兴奋剂，这些情形可入刑",
       "category": "综合",
-      "summary": "中新网哈尔滨11月25日电 (记者 王妮娜)黑龙江省气象台25日发布消息，26日夜间至27日，黑龙江全省大部将出现降雪天气，东北部地区有大雪、局地暴雪，东南部地区有短时间雨夹雪，道路冰雪对交通影响较大。",
+      "summary": "中新网北京11月26日电(记者 高萌)为依法严惩各类兴奋剂犯罪，坚决维护体育竞赛的公平竞争和体育运动参加者的身心健康，11月26日，最高人民法院、最高人民检察院联合发布《关于办理妨害兴奋剂管理等刑事案件适用法律若干问题的解释》(以下简称《解释》)，自2026年12月1日起施行。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737825.shtml",
-      "publishedAt": "2026-11-25T13:46:41.000Z",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737976.shtml",
+      "publishedAt": "2026-11-26T03:03:13.000Z",
       "tags": [
         "国内",
         "社会",
@@ -446,14 +446,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-25/10737828.shtml",
-      "title": "涉130万使用者个人信息！售票网站遭黑客入侵，香港有关部门已报警",
+      "id": "chinanews-scroll-http://www.chinanews.com.cn/mil/shipin/2026/11-26/news1076022.shtml",
+      "title": "外机故意冲闯 歼-16飞行员：用我们手中的武器把他赶出去",
       "category": "综合",
-      "summary": "香港特区政府康乐及文化事务署(简称“康文署”)25日公布，于24日接获城市售票网的外包承办商通报，发现城市售票网被黑客非法进入。承办商已即时采取措施防止黑客，并全面检视系统，确认系统可继续正常运作。",
+      "summary": "",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737828.shtml",
-      "publishedAt": "2026-11-25T13:45:49.000Z",
+      "url": "http://www.chinanews.com.cn/mil/shipin/2026/11-26/news1076022.shtml",
+      "publishedAt": "2026-11-26T03:02:43.000Z",
       "tags": [
         "国内",
         "社会",
@@ -464,14 +464,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-25/10737820.shtml",
-      "title": "专家学者齐聚广州共探人工智能与硬科技产业协同",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-26/10737979.shtml",
+      "title": "金正恩视察朝鲜核物质生产及核武器研究部门",
       "category": "综合",
-      "summary": "中新网广州11月25日电 (记者 王坚)第十九届寰宇生产力论坛暨湾区产业链接大会24日在广州南沙开幕。论坛以“拥抱AI，携手两岸，向新向海向未来”为主题，围绕人工智能、新质生产力、科技金融、产业协同等议题展开。",
+      "summary": "中新网11月26日电 据朝中社26日报道，朝鲜劳动党总书记、国务委员长金正恩25日视察朝鲜核物质生产及核武器研究部门工作。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737820.shtml",
-      "publishedAt": "2026-11-25T13:45:07.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737979.shtml",
+      "publishedAt": "2026-11-26T03:02:25.000Z",
       "tags": [
         "国内",
         "社会",
@@ -482,14 +482,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-25/10737819.shtml",
-      "title": "中马青年企业家广西南宁共探AI赋能企业出海",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-26/10737962.shtml",
+      "title": "埃及一油车起火波及27辆车致31人死亡",
       "category": "综合",
-      "summary": "中新网南宁11月25日电 (刘学程)“以智创新·向海而行”AI赋能企业出海主题分享活动24日在广西南宁举行。活动邀请阿里巴巴国际站全球钻石讲师、跨境电商实战专家柯小平作专题分享，正在南宁参访的20位马来西亚青年企业家出席活动。",
+      "summary": "中新社北京11月26日电 开罗消息：当地时间25日傍晚，一辆运载石油制品的卡车在埃及吉萨省环城公路碰撞起火后引发火灾。据埃及卫生和人口部最新消息，本次大火烧毁27辆车，已造成31人死亡、21人受伤。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737819.shtml",
-      "publishedAt": "2026-11-25T13:44:57.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737962.shtml",
+      "publishedAt": "2026-11-26T02:49:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -500,14 +500,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-25/10737824.shtml",
-      "title": "特朗普之子遭调查，民主党议员称其有“神奇预知能力”，特朗普：我为我的孩子们感到难过",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-26/10737961.shtml",
+      "title": "巴西回应美国拟加征新关税：不可接受，不会屈服",
       "category": "综合",
-      "summary": "路透社24日报道称，美国众议院民主党人杰米·拉斯金正在调查美国总统特朗普之子小唐纳德·特朗普的商业行为。",
+      "summary": "中新社圣保罗11月25日电(记者 林春茵)巴西政府当地时间25日发表声明，对美国贸易代表办公室建议对巴西飞机和糖加征新一轮进口关税“表示愤慨”，强调巴西不会向此类威胁屈服，不排除采取对等措施。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737824.shtml",
-      "publishedAt": "2026-11-25T13:44:15.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737961.shtml",
+      "publishedAt": "2026-11-26T02:48:24.000Z",
       "tags": [
         "国内",
         "社会",
@@ -518,14 +518,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-25/10737816.shtml",
-      "title": "香港“出海专班”赴安徽推介 助皖企借港出海",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-26/10737930.shtml",
+      "title": "2025年德国进口烟花爆竹产品中98%来自中国",
       "category": "综合",
-      "summary": "中新网合肥11月25日电 (记者 赵强)“皖港携手扬帆启航”伴航内地企业走向全球交流活动25日在合肥举办。",
+      "summary": "中新网柏林11月26日电 德国联邦统计局近日公布的数据显示，2025年德国进口的烟花爆竹产品中有98%来自中国，共计5.01万吨，占德国烟花爆竹进口总量(约5.11万吨)的绝大部分。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737816.shtml",
-      "publishedAt": "2026-11-25T13:44:11.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737930.shtml",
+      "publishedAt": "2026-11-26T02:47:50.000Z",
       "tags": [
         "国内",
         "社会",
@@ -536,14 +536,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/cj/2026/11-25/10737814.shtml",
-      "title": "黑龙江“吸睛”各国客商 共拓入境文旅合作通道",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gj/2026/11-26/10737929.shtml",
+      "title": "欧盟对15家俄罗斯实体实施贸易制裁",
       "category": "综合",
-      "summary": "中新网哈尔滨11月25日电 (王琳 刘倚辰)黑龙江省文化和旅游资产交易大会暨招商对接会——入境游资源交流对接活动于25日在哈尔滨举办，重点引进境内外投资者、文旅龙头企业与优质旅行商，携手共拓入境文旅合作通道。",
+      "summary": "中新网布鲁塞尔11月26日电(记者 德永健)欧盟25日对俄罗斯发起贸易制裁，将俄罗斯15家实体列为制裁对象。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737814.shtml",
-      "publishedAt": "2026-11-25T13:43:51.000Z",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-26/10737929.shtml",
+      "publishedAt": "2026-11-26T02:47:22.000Z",
       "tags": [
         "国内",
         "社会",
@@ -554,14 +554,14 @@
       "hot": false
     },
     {
-      "id": "chinanews-scroll-https://www.chinanews.com.cn/dwq/2026/11-25/10737821.shtml",
-      "title": "（机遇香港）报告预计今年香港IPO集资额居全球第二 “A+H”上市仍为重要动力",
+      "id": "chinanews-scroll-https://www.chinanews.com.cn/gn/2026/11-26/10737975.shtml",
+      "title": "“三北”工程将按照14个重点分区 推行差异化治理",
       "category": "综合",
-      "summary": "中新社香港11月25日电 (记者 戴小橦)专业服务机构安永25日发布的《中国内地和香港IPO市场》报告显示，2026年香港IPO(首次公开招股)市场表现突出，集资额预计位居全球第二。",
+      "summary": "记者日前从国家林业和草原局了解到，“三北”工程将按照14个重点分区，推行差异化治理，持续推动“三北”工程从规模扩张向质量效益并重转变。",
       "source": "中国新闻网",
       "sourceId": "chinanews-scroll",
-      "url": "https://www.chinanews.com.cn/dwq/2026/11-25/10737821.shtml",
-      "publishedAt": "2026-11-25T13:42:55.000Z",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-26/10737975.shtml",
+      "publishedAt": "2026-11-26T02:44:00.000Z",
       "tags": [
         "国内",
         "社会",
@@ -572,19 +572,127 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad#0",
-      "title": "美國準備公布對全球貿易夥伴加征新關稅的計劃",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwe851kg1kj1o/trad#0",
+      "title": "白紙運動四年之後，上海青年公共空間去哪兒了？",
       "category": "国际",
-      "summary": "新關稅將打擊美國許多最大的貿易夥伴，包括中國和歐盟。",
+      "summary": "白紙運動四年後，BBC中文對話多位上海酒吧、咖啡店老闆和昔日常客、白紙運動親歷者，在他們眼裡，青年空間是如何在四年裡逐漸消失的。",
       "source": "BBC 中文",
       "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T12:18:58.000Z",
+      "url": "https://www.bbc.com/zhongwen/articles/cwe851kg1kj1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T00:29:38.000Z",
       "tags": [
         "国际",
         "商业",
         "科技",
         "社会"
+      ],
+      "hot": false
+    },
+    {
+      "id": "sspai-https://sspai.com/post/119560",
+      "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+      "category": "科技",
+      "summary": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。 查看全文",
+      "source": "少数派",
+      "sourceId": "sspai",
+      "url": "https://sspai.com/post/119560",
+      "publishedAt": "2026-11-26T00:08:07.000Z",
+      "tags": [
+        "科技",
+        "效率",
+        "工具",
+        "职场",
+        "创作"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143269",
+      "title": "加沙的寡妇独自抚养家人：“我们承担着双倍的责任，但我们的权利在哪里？”",
+      "category": "国际",
+      "summary": "对于在战争中失去丈夫的加沙妇女来说，养家糊口不再仅仅意味着把饭菜端上桌。如今，这还意味着要找到栖身之所、取水，并确保孩子们能继续上学——而这一切都只能在帐篷里完成。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143269",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143268",
+      "title": "联合国警告尼日利亚西部暴力局势升级风险",
+      "category": "国际",
+      "summary": "联合国人权事务高级专员蒂尔克周三警告称，鉴于近日尼日利亚西部尼日尔州连续发生多起社区间杀戮和报复性袭击事件，该地区暴力局势进一步升级的风险极高。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143268",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143267",
+      "title": "阿富汗人经西巴尔干路线赴欧：旅程平均209天，花费逾7500欧元",
+      "category": "国际",
+      "summary": "国际移民组织最新数据显示，尽管经西巴尔干路线前往欧洲的阿富汗国民数量有所减少，但继续这段旅程的人们仍面临经济困难和不确定性，旅程平均耗时数月，花费高达数千欧元。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143267",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143266",
+      "title": "索马里：拜多阿饥荒风险缓解 仍有数百万人面临粮食危机",
+      "category": "国际",
+      "summary": "国际饥荒预测与评估体系“粮食安全阶段综合分类”最新分析显示，索马里拜多阿地区境内流离失所者面临的饥荒风险有所缓解，但仍处于严重粮食不安全和营养不良状态。预计2026年10月至12月期间，全国仍有530万人面临危机或更严重程度的急性粮食不安全状况。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143266",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
+      ],
+      "hot": false
+    },
+    {
+      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143265",
+      "title": "也门战争：联合国紧急援助负责人呼吁允许进入受战火影响的社区",
+      "category": "国际",
+      "summary": "联合国最高援助事务官员弗莱彻在周三抵达也门进行访问时警告说，那里的战争正阻碍家庭获得生存所需的食物和药品，特别是塔伊兹市的家庭。",
+      "source": "联合国新闻",
+      "sourceId": "un-news-zh",
+      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143265",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "tags": [
+        "国际",
+        "公共政策",
+        "教育",
+        "健康",
+        "环境"
       ],
       "hot": false
     },
@@ -677,7 +785,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/trad#2",
       "title": "神舟二十四號成功發射 首位巴基斯坦航天員登中國「天宮」意味什麼？",
       "category": "国际",
       "summary": "這次任務對航天員阿里而言，這是巴基斯坦的榮耀時刻；對中國而言，則是其與美國爭奪太空主導地位競賽中的又一步進展。",
@@ -941,7 +1049,7 @@
       "hot": false
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad#2",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad#0",
       "title": "宏福苑大火一周年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？",
       "category": "国际",
       "summary": "宏福苑大火一周年前夕，港府官員稱「政府絕對容許」合法活動，但有遺屬表示悼念活動受壓，也有新聞工作者向BBC中文透露，相關周年報導在製作完成後突然「被抽起」。",
@@ -1046,24 +1154,6 @@
       "hot": false
     },
     {
-      "id": "sspai-https://sspai.com/post/119460",
-      "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
-      "category": "科技",
-      "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ... 查看全文",
-      "source": "少数派",
-      "sourceId": "sspai",
-      "url": "https://sspai.com/post/119460",
-      "publishedAt": "2026-11-24T00:37:31.000Z",
-      "tags": [
-        "科技",
-        "效率",
-        "工具",
-        "职场",
-        "创作"
-      ],
-      "hot": false
-    },
-    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6qj5772kl0go/trad#2",
       "title": "我們如何知道疫苗安全？它們是如何經過測試？",
       "category": "国际",
@@ -1089,23 +1179,6 @@
       "sourceId": "bbc-zh",
       "url": "https://www.bbc.com/zhongwen/articles/c6qx5eqgg0rwo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-23T19:19:55.000Z",
-      "tags": [
-        "国际",
-        "商业",
-        "科技",
-        "社会"
-      ],
-      "hot": false
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqvg2947xvx0o/trad#2",
-      "title": "黃仁勳辭職11天後重掌Nvidia：大逆轉下盤前股價漲超30%",
-      "category": "国际",
-      "summary": "從一週前斷然拒絕其回歸，到如今全票通過復職，英偉達完成了一次戲劇性轉向。投資者的反應同樣直接：消息公佈後，公司股價在紐約盤前交易中上升一度超過30%。",
-      "source": "BBC 中文",
-      "sourceId": "bbc-zh",
-      "url": "https://www.bbc.com/zhongwen/articles/cqvg2947xvx0o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T15:02:48.000Z",
       "tags": [
         "国际",
         "商业",
@@ -1576,92 +1649,19 @@
       "hot": false
     },
     {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143236",
-      "title": "联合国危机教育全球基金拨款5200万美元 助力30万儿童继续学习",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad#5",
+      "title": "中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話",
       "category": "国际",
-      "summary": "联合国危机教育全球基金“教育不能等待”周五宣布提供5200万美元，帮助黎巴嫩、缅甸和南苏丹30多万名因战争、洪水和流离失所而学习中断的儿童重返校园、补修课程并获得心理社会支持。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143236",
-      "publishedAt": "2026-11-20T12:00:00.000Z",
+      "summary": "會後發表的中俄美元首和平宣言顯示，三國領導人承諾就「減少核風險、防止核擴散」展開對話，並就聯合國改革、能源穩定和國際刑事法院管轄權等議題達成四點共識。",
+      "source": "BBC 中文",
+      "sourceId": "bbc-zh",
+      "url": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T12:22:04.000Z",
       "tags": [
         "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143235",
-      "title": "COP31原定闭幕日到来，多国要求明确摆脱化石燃料并加强资金支持",
-      "category": "国际",
-      "summary": "周五是第31届联合国气候变化大会原定闭幕日，来自欧洲、非洲、拉丁美洲和太平洋地区的多个国家联合要求修改协议草案，明确逐步摆脱化石燃料的行动方向，并加强气候资金支持。谈判代表仍在努力寻找近200个国家都能接受的方案。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143235",
-      "publishedAt": "2026-11-20T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143232",
-      "title": "【子午播报】2026年11月20日",
-      "category": "国际",
-      "summary": "纽约时间零点，北京时间13点，欢迎收看《联合国子午播报》。本期节目您将看到，中美俄深圳会晤，联合国如何回应？国际法院认定缅甸对罗兴亚人实施种族灭绝。子午聚焦：联合国讨论管制“杀人机器人”。&nbsp;",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143232",
-      "publishedAt": "2026-11-20T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143233",
-      "title": "【专题报道 | 前方视野】从“丢弃”迈向“循环“时代：零废弃物议程试图打开气候行动的新突破口",
-      "category": "国际",
-      "summary": "在联合国气候变化大会的谈判大厅里，焦点往往集中在能源转型、气候融资和减排目标上。然而，正在土耳其安塔利亚举行的第31届气候变化大会凸显了气候行动中一个长期被低估的领域：通过减少废弃物和推动循环经济来实现减排，这些举措正在成为减缓全球变暖见效快、成本低且极具现实可行性的突破口之一。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143233",
-      "publishedAt": "2026-11-19T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
-      ],
-      "hot": false
-    },
-    {
-      "id": "un-news-zh-https://news.un.org/zh/story/2026/11/1143231",
-      "title": "联合国警告：人工智能正被用于诱骗和剥削儿童",
-      "category": "国际",
-      "summary": "联合国周四警告，人工智能正被侵害者和犯罪团伙用于诱骗、勒索和剥削儿童，而相应保护措施未能跟上技术发展的步伐。",
-      "source": "联合国新闻",
-      "sourceId": "un-news-zh",
-      "url": "https://news.un.org/feed/view/zh/story/2026/11/1143231",
-      "publishedAt": "2026-11-19T12:00:00.000Z",
-      "tags": [
-        "国际",
-        "公共政策",
-        "教育",
-        "健康",
-        "环境"
+        "商业",
+        "科技",
+        "社会"
       ],
       "hot": false
     },

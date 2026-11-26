@@ -5,6 +5,13 @@
   "title": "少数派",
   "items": [
     {
+      "id": "sspai-https://sspai.com/post/119560",
+      "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+      "meta": "少数派 · 2026/11/26",
+      "url": "https://sspai.com/post/119560",
+      "publishedAt": "2026-11-26T00:08:07.000Z"
+    },
+    {
       "id": "sspai-https://sspai.com/post/119264",
       "title": "翻开 2027， 值得入手的新年日历推荐",
       "meta": "少数派 · 2026/11/25",
@@ -54,13 +61,6 @@
       "publishedAt": "2026-11-24T03:03:10.000Z"
     },
     {
-      "id": "sspai-https://sspai.com/post/119460",
-      "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
-      "meta": "少数派 · 2026/11/24",
-      "url": "https://sspai.com/post/119460",
-      "publishedAt": "2026-11-24T00:37:31.000Z"
-    },
-    {
       "id": "sspai-https://sspai.com/post/119438",
       "title": "派评 | 近期值得关注的 App",
       "meta": "少数派 · 2026/11/23",
@@ -75,6 +75,6 @@
       "publishedAt": "2026-11-23T10:00:30.000Z"
     }
   ],
-  "updatedAt": "2026-11-25T21:48:32.418Z",
+  "updatedAt": "2026-11-26T04:11:44.063Z",
   "provider": "OneBench 公共资讯快照"
 }

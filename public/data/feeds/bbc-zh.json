@@ -5,11 +5,11 @@
   "title": "BBC 中文",
   "items": [
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad#0",
-      "title": "美國準備公布對全球貿易夥伴加征新關稅的計劃",
-      "meta": "BBC 中文 · 2026/11/25",
-      "url": "https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T12:18:58.000Z"
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwe851kg1kj1o/trad#0",
+      "title": "白紙運動四年之後，上海青年公共空間去哪兒了？",
+      "meta": "BBC 中文 · 2026/11/26",
+      "url": "https://www.bbc.com/zhongwen/articles/cwe851kg1kj1o/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T00:29:38.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c6rmgvkp322xo/trad#0",
@@ -26,7 +26,7 @@
       "publishedAt": "2026-11-25T11:14:10.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/trad#2",
       "title": "神舟二十四號成功發射 首位巴基斯坦航天員登中國「天宮」意味什麼？",
       "meta": "BBC 中文 · 2026/11/25",
       "url": "https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/trad?at_medium=RSS&at_campaign=rss",
@@ -68,7 +68,7 @@
       "publishedAt": "2026-11-24T14:35:36.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad#2",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad#0",
       "title": "宏福苑大火一周年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？",
       "meta": "BBC 中文 · 2026/11/24",
       "url": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad?at_medium=RSS&at_campaign=rss",
@@ -101,13 +101,6 @@
       "meta": "BBC 中文 · 2026/11/23",
       "url": "https://www.bbc.com/zhongwen/articles/c6qx5eqgg0rwo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-23T19:19:55.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cqvg2947xvx0o/trad#2",
-      "title": "黃仁勳辭職11天後重掌Nvidia：大逆轉下盤前股價漲超30%",
-      "meta": "BBC 中文 · 2026/11/23",
-      "url": "https://www.bbc.com/zhongwen/articles/cqvg2947xvx0o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T15:02:48.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cm4gn2l17w5go/trad#2",
@@ -157,6 +150,13 @@
       "meta": "BBC 中文 · 2026/11/20",
       "url": "https://www.bbc.com/zhongwen/articles/cmp3vyl0x1x6o/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T15:55:24.000Z"
+    },
+    {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad#5",
+      "title": "中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話",
+      "meta": "BBC 中文 · 2026/11/19",
+      "url": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T12:22:04.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad#4",
@@ -215,6 +215,6 @@
       "publishedAt": "2026-10-20T07:42:45.000Z"
     }
   ],
-  "updatedAt": "2026-11-25T21:48:32.418Z",
+  "updatedAt": "2026-11-26T04:11:44.063Z",
   "provider": "OneBench 公共资讯快照"
 }
