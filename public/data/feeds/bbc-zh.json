@@ -5,6 +5,13 @@
   "title": "BBC 中文",
   "items": [
     {
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad#0",
+      "title": "台灣「九合一」選舉開始投票 核電政策公投同步舉行",
+      "meta": "BBC 中文 · 2026/11/28",
+      "url": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T00:00:00.000Z"
+    },
+    {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad#1",
       "title": "台灣「九合一」選舉：六都市長候選人簡介",
       "meta": "BBC 中文 · 2026/11/27",
@@ -26,7 +33,7 @@
       "publishedAt": "2026-11-27T06:16:13.000Z"
     },
     {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx053e8yr348o/trad#0",
+      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cx053e8yr348o/trad#2",
       "title": "台中市選戰：江啟臣對決何欣純，盧秀燕問鼎總統前哨戰",
       "meta": "BBC 中文 · 2026/11/27",
       "url": "https://www.bbc.com/zhongwen/articles/cx053e8yr348o/trad?at_medium=RSS&at_campaign=rss",
@@ -66,13 +73,6 @@
       "meta": "BBC 中文 · 2026/11/26",
       "url": "https://www.bbc.com/zhongwen/articles/c9ly484v6pdzo/trad?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-26T08:34:56.000Z"
-    },
-    {
-      "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cmq8lz8ddyg9o/trad#2",
-      "title": "美國法院裁定：中國科技巨頭華為，共謀竊取商業機密罪名成立",
-      "meta": "BBC 中文 · 2026/11/26",
-      "url": "https://www.bbc.com/zhongwen/articles/cmq8lz8ddyg9o/trad?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T07:35:10.000Z"
     },
     {
       "id": "bbc-zh-https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad#2",
@@ -208,6 +208,6 @@
       "publishedAt": "2026-10-20T07:42:45.000Z"
     }
   ],
-  "updatedAt": "2026-11-27T19:30:46.855Z",
+  "updatedAt": "2026-11-28T02:46:03.298Z",
   "provider": "OneBench 公共资讯快照"
 }
